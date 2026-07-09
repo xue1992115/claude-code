@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>粒子动画 - Particle Animation</title>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background: #0a0a0f;
+    overflow: hidden;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    cursor: crosshair;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  canvas {
+    display: block;
+  }
+
+  .controls {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 12px;
+    z-index: 10;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .btn {
+    padding: 10px 22px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.06);
+    color: #ccc;
+    font-size: 14px;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+    letter-spacing: 0.5px;
+  }
+
+  .btn:hover {
+    background: rgba(255, 255, 255, 0.14);
+    border-color: rgba(255, 255, 255, 0.5);
+    color: #fff;
+    box-shadow: 0 0 30px rgba(100, 180, 255, 0.15);
+  }
+
+  .btn.active {
+    background: rgba(100, 180, 255, 0.2);
+    border-color: rgba(100, 180, 255, 0.6);
+    color: #fff;
+    box-shadow: 0 0 25px rgba(100, 180, 255, 0.25);
+  }
+
+  .hint {
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: rgba(255, 255, 255, 0.45);
+    font-size: 13px;
+    letter-spacing: 1px;
+    z-index: 10;
+    pointer-events: none;
+    transition: opacity 0.8s ease;
+  }
+</style>
+</head>
+<body>
+<canvas id="canvas"></canvas>
+<div class="hint" id="hint">移动鼠标互动 · 点击切换模式</div>
+<div class="controls">
+  <button class="btn active" data-mode="flow">流动</button>
+  <button class="btn" data-mode="constellation">星座</button>
+  <button class="btn" data-mode="vortex">漩涡</button>
+  <button class="btn" data-mode="firefly">萤火</button>
+  <button class="btn" data-mode="rainbow">彩虹</button>
+  <button class="btn" id="btnColor">切换配色</button>
+</div>
+
+<script>
+  (function() {
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    const hint = document.getElementById('hint');
+
+    let W, H;
+    let mouse = { x: -1000, y: -1000, isDown: false, radius: 150 };
+    let particles = [];
+    let mode = 'flow';
+    let colorScheme = 0;
+
+    // ── 配色方案 ──────────────────────────────
+    const colorSchemes = [
+      { // 极光
+        hues: [180, 200, 220, 260, 300],
+        bg: '#0a0a14',
+      },
+      { // 落日
+        hues: [15, 25, 35, 45, 55],
+        bg: '#0f0a08',
+      },
+      { // 森林
+        hues: [80, 110, 140, 160, 180],
+        bg: '#080f0a',
+      },
+      { // 霓虹
+        hues: [300, 320, 340, 360, 20],
+        bg: '#0f0810',
+      },
+    ];
+
+    function getScheme() {
+      return colorSchemes[colorScheme % colorSchemes.length];
+    }
+
+    // ── 粒子类 ────────────────────────────────
+    class Particle {
+      constructor() {
+        this.reset();
+      }
+
+      reset() {
+        this.x = Math.random() * W;
+        this.y = Math.random() * H;
+        this.baseX = this.x;
+        this.baseY = this.y;
+        this.vx = (Math.random() - 0.5) * 0.8;
+        this.vy = (Math.random() - 0.5) * 0.8;
+        this.size = Math.random() * 2.5 + 1;
+        this.baseSize = this.size;
+        this.hue = getScheme().hues[Math.floor(Math.random() * getScheme().hues.length)];
+        this.saturation = 70 + Math.random() * 30;
+        this.lightness = 55 + Math.random() * 35;
+        this.alpha = Math.random() * 0.6 + 0.4;
+        this.angle = Math.random() * Math.PI * 2;
+        this.angleSpeed = (Math.random() - 0.5) * 0.02;
+        this.orbitRadius = Math.random() * 3;
+        this.pulseSpeed = Math.random() * 0.03 + 0.01;
+        this.pulseOffset = Math.random() * Math.PI * 2;
+        this.trail = [];
+        this.maxTrail = Math.floor(Math.random() * 8 + 3);
+      }
+
+      update(mode, mouse, W, H, time) {
+        switch (mode) {
+          case 'flow':
+            this.updateFlow(mouse, W, H, time);
+            break;
+          case 'constellation':
+            this.updateConstellation(mouse, W, H, time);
+            break;
+          case 'vortex':
+            this.updateVortex(mouse, W, H, time);
+            break;
+          case 'firefly':
+            this.updateFirefly(mouse, W, H, time);
+            break;
+          case 'rainbow':
+            this.updateRainbow(mouse, W, H, time);
+            break;
+        }
+
+        // 边界处理
+        if (this.x < -50) this.x = W + 50;
+        if (this.x > W + 50) this.x = -50;
+        if (this.y < -50) this.y = H + 50;
+        if (this.y > H + 50) this.y = -50;
+
+        // 轨迹
+        this.trail.push({ x: this.x, y: this.y, alpha: this.alpha });
+        if (this.trail.length > this.maxTrail) this.trail.shift();
+      }
+
+      updateFlow(mouse, W, H, time) {
+        // 柏林噪声风格流动
+        const nx = this.x * 0.001;
+        const ny = this.y * 0.001;
+        const t = time * 0.0003;
+
+        const angle = Math.sin(nx + t) * Math.cos(ny + t * 0.7) * Math.PI * 0.8;
+        const speed = 0.6 + Math.sin(nx * 2 + t * 0.5) * 0.3;
+
+        this.vx += (Math.cos(angle) * speed - this.vx) * 0.02;
+        this.vy += (Math.sin(angle) * speed - this.vy) * 0.02;
+
+        // 鼠标排斥
+        const dx = this.x - mouse.x;
+        const dy = this.y - mouse.y;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < mouse.radius) {
+          const force = (mouse.radius - dist) / mouse.radius;
+          const angle2 = Math.atan2(dy, dx);
+          this.vx += Math.cos(angle2) * force * 2;
+          this.vy += Math.sin(angle2) * force * 2;
+        }
+
+        // 限速
+        const maxSpeed = 2.5;
+        const currentSpeed = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
+        if (currentSpeed > maxSpeed) {
+          this.vx = (this.vx / currentSpeed) * maxSpeed;
+          this.vy = (this.vy / currentSpeed) * maxSpeed;
+        }
+
+        this.x += this.vx;
+        this.y += this.vy;
+        this.size = this.baseSize + Math.sin(time * this.pulseSpeed + this.pulseOffset) * 0.5;
+      }
+
+      updateConstellation(mouse, W, H, time) {
+        // 缓慢漂移 + 鼠标吸引
+        this.angle += this.angleSpeed;
+        this.x += Math.cos(this.angle) * 0.3 + this.vx * 0.3;
+        this.y += Math.sin(this.angle) * 0.3 + this.vy * 0.3;
+
+        const dx = mouse.x - this.x;
+        const dy = mouse.y - this.y;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < 250) {
+          const force = (250 - dist) / 250;
+          this.x += dx * force * 0.02;
+          this.y += dy * force * 0.02;
+        }
+
+        this.size = this.baseSize;
+      }
+
+      updateVortex(mouse, W, H, time) {
+        const cx = mouse.isDown ? mouse.x : W / 2;
+        const cy = mouse.isDown ? mouse.y : H / 2;
+
+        const dx = this.x - cx;
+        const dy = this.y - cy;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        const angle = Math.atan2(dy, dx);
+
+        const spinSpeed = 0.03 + (1 / (dist * 0.01 + 1)) * 0.08;
+        const newAngle = angle + spinSpeed;
+        const targetDist = dist + (Math.sin(time * 0.002 + dist * 0.01) * 0.3);
+
+        this.x += (cx + Math.cos(newAngle) * targetDist - this.x) * 0.05;
+        this.y += (cy + Math.sin(newAngle) * targetDist - this.y) * 0.05;
+
+        this.size = this.baseSize + (1 - Math.min(dist / 400, 1)) * 3;
+        this.hue = (getScheme().hues[0] + time * 0.05 + dist * 0.05) % 360;
+      }
+
+      updateFirefly(mouse, W, H, time) {
+        // 随机游走 + 间歇发光
+        if (Math.random() < 0.02) {
+          this.vx += (Math.random() - 0.5) * 1.5;
+          this.vy += (Math.random() - 0.5) * 1.5;
+        }
+
+        const dx = mouse.x - this.x;
+        const dy = mouse.y - this.y;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < 200 && dist > 0) {
+          this.vx += (dx / dist) * 0.05;
+          this.vy += (dy / dist) * 0.05;
+        }
+
+        // 摩擦力
+        this.vx *= 0.99;
+        this.vy *= 0.99;
+
+        // 限速
+        const speed = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
+        const maxSpeed = 1.8;
+        if (speed > maxSpeed) {
+          this.vx = (this.vx / speed) * maxSpeed;
+          this.vy = (this.vy / speed) * maxSpeed;
+        }
+
+        this.x += this.vx;
+        this.y += this.vy;
+
+        // 脉冲发光
+        const pulse = Math.sin(time * this.pulseSpeed * 3 + this.pulseOffset);
+        this.alpha = 0.2 + (pulse + 1) * 0.4;
+        this.size = this.baseSize + (pulse + 1) * 2;
+      }
+
+      updateRainbow(mouse, W, H, time) {
+        // 波浪形运动
+        const waveX = Math.sin(time * 0.001 + this.y * 0.01) * 1.5;
+        const waveY = Math.cos(time * 0.0013 + this.x * 0.01) * 1.5;
+
+        this.x += waveX * 0.5 + this.vx * 0.5;
+        this.y += waveY * 0.5 + this.vy * 0.5;
+
+        // 颜色随位置和时间变化
+        this.hue = (this.x / W * 360 + time * 0.08) % 360;
+        this.lightness = 55 + Math.sin(time * 0.003 + this.x * 0.01) * 20;
+
+        this.size = this.baseSize;
+      }
+
+      draw(ctx) {
+        // 绘制轨迹
+        if (this.trail.length > 1) {
+          for (let i = 1; i < this.trail.length; i++) {
+            const t = this.trail[i];
+            const prev = this.trail[i - 1];
+            const trailAlpha = (i / this.trail.length) * this.alpha * 0.3;
+
+            ctx.beginPath();
+            ctx.moveTo(prev.x, prev.y);
+            ctx.lineTo(t.x, t.y);
+            ctx.strokeStyle = `hsla(${this.hue}, ${this.saturation}%, ${this.lightness}%, ${trailAlpha})`;
+            ctx.lineWidth = this.size * 0.5 * (i / this.trail.length);
+            ctx.stroke();
+          }
+        }
+
+        // 发光光晕
+        const glow = ctx.createRadialGradient(this.x, this.y, 0, this.x, this.y, this.size * 4);
+        glow.addColorStop(0, `hsla(${this.hue}, ${this.saturation}%, ${this.lightness}%, ${this.alpha})`);
+        glow.addColorStop(0.4, `hsla(${this.hue}, ${this.saturation}%, ${this.lightness}%, ${this.alpha * 0.5})`);
+        glow.addColorStop(1, `hsla(${this.hue}, ${this.saturation}%, ${this.lightness}%, 0)`);
+
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.size * 4, 0, Math.PI * 2);
+        ctx.fillStyle = glow;
+        ctx.fill();
+
+        // 核心
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+        ctx.fillStyle = `hsla(${this.hue}, ${this.saturation}%, ${Math.min(this.lightness + 20, 100)}%, ${this.alpha})`;
+        ctx.fill();
+      }
+    }
+
+    // ── 初始化粒子 ────────────────────────────
+    function initParticles(count) {
+      particles = [];
+      for (let i = 0; i < count; i++) {
+        particles.push(new Particle());
+      }
+    }
+
+    // ── 星座连线 ──────────────────────────────
+    function drawConstellationLines() {
+      const maxDist = mode === 'constellation' ? 150 : 100;
+      const activeParticles = particles;
+
+      for (let i = 0; i < activeParticles.length; i++) {
+        for (let j = i + 1; j < activeParticles.length; j++) {
+          const dx = activeParticles[i].x - activeParticles[j].x;
+          const dy = activeParticles[i].y - activeParticles[j].y;
+          const dist = Math.sqrt(dx * dx + dy * dy);
+
+          if (dist < maxDist) {
+            const alpha = (1 - dist / maxDist) * 0.2;
+            ctx.beginPath();
+            ctx.moveTo(activeParticles[i].x, activeParticles[i].y);
+            ctx.lineTo(activeParticles[j].x, activeParticles[j].y);
+            ctx.strokeStyle = `rgba(255, 255, 255, ${alpha})`;
+            ctx.lineWidth = 0.5;
+            ctx.stroke();
+          }
+        }
+      }
+    }
+
+    // ── 鼠标光晕 ──────────────────────────────
+    function drawMouseGlow() {
+      const glow = ctx.createRadialGradient(mouse.x, mouse.y, 0, mouse.x, mouse.y, mouse.radius);
+      glow.addColorStop(0, 'rgba(255, 255, 255, 0.06)');
+      glow.addColorStop(0.5, 'rgba(255, 255, 255, 0.02)');
+      glow.addColorStop(1, 'rgba(255, 255, 255, 0)');
+
+      ctx.beginPath();
+      ctx.arc(mouse.x, mouse.y, mouse.radius, 0, Math.PI * 2);
+      ctx.fillStyle = glow;
+      ctx.fill();
+    }
+
+    // ── 动画循环 ──────────────────────────────
+    let time = 0;
+    function animate(timestamp) {
+      time = timestamp;
+
+      const scheme = getScheme();
+      ctx.fillStyle = scheme.bg;
+      ctx.fillRect(0, 0, W, H);
+
+      // 更新 & 绘制粒子
+      for (const p of particles) {
+        p.update(mode, mouse, W, H, time);
+        p.draw(ctx);
+      }
+
+      // 星座连线
+      if (mode === 'constellation' || mode === 'flow') {
+        drawConstellationLines();
+      }
+
+      // 鼠标光晕
+      drawMouseGlow();
+
+      requestAnimationFrame(animate);
+    }
+
+    // ── 响应式处理 ────────────────────────────
+    function resize() {
+      W = canvas.width = window.innerWidth;
+      H = canvas.height = window.innerHeight;
+      const count = Math.floor((W * H) / 8000);
+      initParticles(Math.min(Math.max(count, 60), 300));
+    }
+
+    window.addEventListener('resize', resize);
+
+    // ── 鼠标事件 ──────────────────────────────
+    window.addEventListener('mousemove', (e) => {
+      mouse.x = e.clientX;
+      mouse.y = e.clientY;
+    });
+
+    window.addEventListener('mousedown', () => { mouse.isDown = true; });
+    window.addEventListener('mouseup', () => { mouse.isDown = false; });
+
+    // 触屏事件
+    window.addEventListener('touchmove', (e) => {
+      mouse.x = e.touches[0].clientX;
+      mouse.y = e.touches[0].clientY;
+    }, { passive: true });
+
+    window.addEventListener('touchstart', (e) => {
+      mouse.isDown = true;
+      mouse.x = e.touches[0].clientX;
+      mouse.y = e.touches[0].clientY;
+    });
+
+    window.addEventListener('touchend', () => { mouse.isDown = false; });
+
+    // ── 按钮事件 ──────────────────────────────
+    document.querySelectorAll('.btn[data-mode]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.btn[data-mode]').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        mode = btn.dataset.mode;
+        // 模式切换时重置粒子
+        for (const p of particles) {
+          p.vx = (Math.random() - 0.5) * 0.8;
+          p.vy = (Math.random() - 0.5) * 0.8;
+        }
+        // 隐藏提示
+        hint.style.opacity = '0';
+        setTimeout(() => { hint.style.opacity = '1'; }, 2000);
+      });
+    });
+
+    document.getElementById('btnColor').addEventListener('click', () => {
+      colorScheme++;
+      for (const p of particles) {
+        p.hue = getScheme().hues[Math.floor(Math.random() * getScheme().hues.length)];
+      }
+    });
+
+    // ── 键盘快捷键 ────────────────────────────
+    window.addEventListener('keydown', (e) => {
+      const modes = ['flow', 'constellation', 'vortex', 'firefly', 'rainbow'];
+      const idx = parseInt(e.key);
+      if (idx >= 1 && idx <= modes.length) {
+        mode = modes[idx - 1];
+        document.querySelectorAll('.btn[data-mode]').forEach(b => b.classList.remove('active'));
+        document.querySelector(`.btn[data-mode="${mode}"]`).classList.add('active');
+      }
+      if (e.key === 'c' || e.key === 'C') {
+        colorScheme++;
+        for (const p of particles) {
+          p.hue = getScheme().hues[Math.floor(Math.random() * getScheme().hues.length)];
+        }
+      }
+    });
+
+    // ── 启动 ──────────────────────────────────
+    resize();
+    requestAnimationFrame(animate);
+  })();
+</script>
+</body>
+</html>
