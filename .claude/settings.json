@@ -1,0 +1,11 @@
+// 描述文件的作用
+{
+  "description": "This file contains configuration settings for the Claude application. It defines various parameters and options that control the behavior and appearance of the application.",
+  "version": "1.0.0",
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "notifications": true,
+    "autoUpdate": false
+  }
+}
