@@ -1,0 +1,879 @@
+- generic [active] [ref=f1e1]:
+  - link "欢迎进入 百度一下，你就知道，盲人用户进入读屏幕模式请按快捷键Ctrl加Alt加R；阅读详细操作说明请按快捷键Ctrl加Alt加问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=f1e2]:
+    - generic [ref=f1e4]:
+      - generic [ref=f1e5]:
+        - generic:
+          - link [ref=f1e6] [cursor=pointer]:
+            - /url: /
+            - img "到百度首页" [ref=f1e7]
+          - generic [ref=f1e10]:
+            - textbox [ref=f1e12]: python
+            - button "百度一下" [ref=f1e43] [cursor=pointer]
+      - generic [ref=f1e45]:
+        - link "百度首页" [ref=f1e46] [cursor=pointer]:
+          - /url: /
+        - link "设置" [ref=f1e47] [cursor=pointer]:
+          - /url: javascript:;
+        - link "登录" [ref=f1e48] [cursor=pointer]:
+          - /url: https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F
+    - generic [ref=f1e51]:
+      - link [ref=f1e52] [cursor=pointer]:
+        - /url: https://chat.baidu.com/search?word=python&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&pd=csaitab&setype=csaitab&extParamsJson=%7B%22enter_type%22%3A%22search_a_tab%22%2C%22sa%22%3A%22vs_tab%22%2C%22apagelid%22%3A%2215654819420697076678%22%2C%22ori_lid%22%3A%2215654819420697076678%22%7D
+      - generic [ref=f1e54]: 网页
+      - link "图片" [ref=f1e55] [cursor=pointer]:
+        - /url: http://image.baidu.com/i?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&lid=d9411752018923c6&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=python
+      - link "资讯" [ref=f1e56] [cursor=pointer]:
+        - /url: https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&ie=utf-8&word=python
+      - link "视频" [ref=f1e57] [cursor=pointer]:
+        - /url: /sf/vsearch?pd=video&tn=vsearch&lid=d9411752018923c6&ie=utf-8&wd=python&rsv_spt=7&rsv_bp=1&f=8&oq=python&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI
+      - link "笔记" [ref=f1e58] [cursor=pointer]:
+        - /url: https://www.baidu.com/s?pd=note&rpf=pc&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=python
+      - link "地图" [ref=f1e59] [cursor=pointer]:
+        - /url: https://map.baidu.com/?newmap=1&ie=utf-8&from=pstab&s=s%26wd%3Dpython
+      - link "贴吧" [ref=f1e60] [cursor=pointer]:
+        - /url: http://tieba.baidu.com/f?fr=wwwt&ie=utf-8&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&kw=python
+      - link "文库" [ref=f1e61] [cursor=pointer]:
+        - /url: http://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=python
+      - link "更多" [ref=f1e62] [cursor=pointer]:
+        - /url: http://www.baidu.com/more/
+      - generic [ref=f1e63] [cursor=pointer]: 搜索工具
+    - generic [ref=f1e64]:
+      - generic [ref=f1e65]:
+        - table [ref=f1e67]:
+          - rowgroup [ref=f1e68]:
+            - row [ref=f1e69]:
+              - cell " 登录百度帐号 交易更有保障  相关搜索  手机版python下载安装  python官网入口免费  在线python编辑器  python课程  python官方网站  python代码自动生成器    换一换 热搜榜 西安榜 民生榜 财经榜  关键攻坚期的一次科技盛会 1 正中靶心！长征十号乙火箭回收成功 2 原则上无人机不许吊人但人民大于原则 热 3 硬核“救援航母”搭起水上平台 4 “巴威”逼近 沿海现7.2米高巨浪 热 5 霸车位不挪还报警是谁惯的 新 6 “我们为什么不爱接电话了” 7 晋江火灾鞋厂大量鞋楦被完全烧焦 热 8 浙江宁波大量飞鸟飞离巢穴 热 9 夫妻买房十年后起诉卖家 10 脑死亡丈夫被妻子强留458天后去世 11 “顾客打人赔偿店家10万”系谣言 12 泉州市长鞠躬致歉 13 台风“巴威”进入24小时警戒线 新 14 IU李钟硕宣布分手 15 台风“巴威”来袭 直击防台一线 ▶想在此推广您的产品吗? 咨询热线：400-800-8888 e.baidu.com" [ref=f1e70]:
+                - list [ref=f1e73]:
+                  - listitem [ref=f1e74]:
+                    - generic [ref=f1e77]:
+                      - generic [ref=f1e78]: 
+                      - text: 登录百度帐号 交易更有保障
+                      - generic [ref=f1e79]: 
+                - generic [ref=f1e80]:
+                  - generic [ref=f1e86]:
+                    - generic [ref=f1e87]: 相关搜索
+                    - generic [ref=f1e89]:
+                      - link " 手机版python下载安装" [ref=f1e92] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E6%89%8B%E6%9C%BA%E7%89%88python%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=8a64Q%2BU2PX3o6tndm673aVAV7Qq2CjIzchf2LUljumKpfAKPRacAa3ZF6%2FU&rfqid=d9411752018923c6&rsv_dl=0_prs_28616_1&rq=python&rsf=101631151
+                        - generic [ref=f1e93]:
+                          - generic [ref=f1e94]: 
+                          - generic [ref=f1e95]: 手机版python下载安装
+                      - link " python官网入口免费" [ref=f1e98] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=python%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A3%E5%85%8D%E8%B4%B9&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=8a64Q%2BU2PX3o6tndm673aVAV7Qq2CjIzchf2LUljumKpfAKPRacAa3ZF6%2FU&rfqid=d9411752018923c6&rsv_dl=0_prs_28616_2&rq=python&rsf=101631101
+                        - generic [ref=f1e99]:
+                          - generic [ref=f1e100]: 
+                          - generic [ref=f1e101]: python官网入口免费
+                      - link " 在线python编辑器" [ref=f1e104] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E5%9C%A8%E7%BA%BFpython%E7%BC%96%E8%BE%91%E5%99%A8&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=8a64Q%2BU2PX3o6tndm673aVAV7Qq2CjIzchf2LUljumKpfAKPRacAa3ZF6%2FU&rfqid=d9411752018923c6&rsv_dl=0_prs_28616_3&rq=python&rsf=101631151
+                        - generic [ref=f1e105]:
+                          - generic [ref=f1e106]: 
+                          - generic [ref=f1e107]: 在线python编辑器
+                      - link " python课程" [ref=f1e110] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=python%E8%AF%BE%E7%A8%8B&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=8a64Q%2BU2PX3o6tndm673aVAV7Qq2CjIzchf2LUljumKpfAKPRacAa3ZF6%2FU&rfqid=d9411752018923c6&rsv_dl=0_prs_28616_4&rq=python&rsf=101631161
+                        - generic [ref=f1e111]:
+                          - generic [ref=f1e112]: 
+                          - generic [ref=f1e113]: python课程
+                      - link " python官方网站" [ref=f1e116] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=python%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=1ffaK6uxVL2MyWP1jD%2FFAKT07%2BTf6jUrmFc2jdCr4fHTske5paBsXmgCFfA&rfqid=d9411752018923c6&rsv_dl=0_prs_28616_5&rq=python&rsf=101633101
+                        - generic [ref=f1e117]:
+                          - generic [ref=f1e118]: 
+                          - generic [ref=f1e119]: python官方网站
+                      - link " python代码自动生成器" [ref=f1e122] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=python%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E5%99%A8&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=1ffaK6uxVL2MyWP1jD%2FFAKT07%2BTf6jUrmFc2jdCr4fHTske5paBsXmgCFfA&rfqid=d9411752018923c6&rsv_dl=0_prs_28616_6&rq=python&rsf=101634503
+                        - generic [ref=f1e123]:
+                          - generic [ref=f1e124]: 
+                          - generic [ref=f1e125]: python代码自动生成器
+                  - generic [ref=f1e129]:
+                    - generic "百度热搜" [ref=f1e130]:
+                      - link " " [ref=f1e131] [cursor=pointer]:
+                        - /url: https://top.baidu.com/board?platform=pc&sa=pcindex_a_right
+                        - generic [ref=f1e132]: 
+                        - generic [ref=f1e133]: 
+                      - link " 换一换" [ref=f1e135] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                        - generic [ref=f1e136]: 
+                        - text: 换一换
+                    - generic [ref=f1e137]:
+                      - generic [ref=f1e138] [cursor=pointer]: 热搜榜
+                      - generic [ref=f1e139] [cursor=pointer]: 西安榜
+                      - generic [ref=f1e140] [cursor=pointer]: 民生榜
+                      - generic [ref=f1e141] [cursor=pointer]: 财经榜
+                    - generic [ref=f1e143]:
+                      - generic [ref=f1e145]:
+                        - generic [ref=f1e146]: 
+                        - link "关键攻坚期的一次科技盛会" [ref=f1e148] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%85%B3%E9%94%AE%E6%94%BB%E5%9D%9A%E6%9C%9F%E7%9A%84%E4%B8%80%E6%AC%A1%E7%A7%91%E6%8A%80%E7%9B%9B%E4%BC%9A&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=4a2biuUJ%2Flf7CLz3fW9cwJRwidWjwtz%2BUIxLbiZ2A6IVdfKhTlmrqzPeRFo&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_1&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=f1e150]:
+                        - generic [ref=f1e151]: "1"
+                        - link "正中靶心！长征十号乙火箭回收成功" [ref=f1e152] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%AD%A3%E4%B8%AD%E9%9D%B6%E5%BF%83%EF%BC%81%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=4a2biuUJ%2Flf7CLz3fW9cwJRwidWjwtz%2BUIxLbiZ2A6IVdfKhTlmrqzPeRFo&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_2&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=f1e154]:
+                        - generic [ref=f1e155]: "2"
+                        - link "原则上无人机不许吊人但人民大于原则" [ref=f1e156] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%8E%9F%E5%88%99%E4%B8%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%8D%E8%AE%B8%E5%90%8A%E4%BA%BA%E4%BD%86%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BA%8E%E5%8E%9F%E5%88%99&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=4a2biuUJ%2Flf7CLz3fW9cwJRwidWjwtz%2BUIxLbiZ2A6IVdfKhTlmrqzPeRFo&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_3&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=f1e157]: 热
+                      - generic [ref=f1e159]:
+                        - generic [ref=f1e160]: "3"
+                        - link "硬核“救援航母”搭起水上平台" [ref=f1e161] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E7%A1%AC%E6%A0%B8%E2%80%9C%E6%95%91%E6%8F%B4%E8%88%AA%E6%AF%8D%E2%80%9D%E6%90%AD%E8%B5%B7%E6%B0%B4%E4%B8%8A%E5%B9%B3%E5%8F%B0&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=4a2biuUJ%2Flf7CLz3fW9cwJRwidWjwtz%2BUIxLbiZ2A6IVdfKhTlmrqzPeRFo&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_4&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=f1e163]:
+                        - generic [ref=f1e164]: "4"
+                        - link "“巴威”逼近 沿海现7.2米高巨浪" [ref=f1e165] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E9%80%BC%E8%BF%91%20%E6%B2%BF%E6%B5%B7%E7%8E%B07.2%E7%B1%B3%E9%AB%98%E5%B7%A8%E6%B5%AA&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=4a2biuUJ%2Flf7CLz3fW9cwJRwidWjwtz%2BUIxLbiZ2A6IVdfKhTlmrqzPeRFo&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_5&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=f1e166]: 热
+                      - generic [ref=f1e168]:
+                        - generic [ref=f1e169]: "5"
+                        - link "霸车位不挪还报警是谁惯的" [ref=f1e170] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E9%9C%B8%E8%BD%A6%E4%BD%8D%E4%B8%8D%E6%8C%AA%E8%BF%98%E6%8A%A5%E8%AD%A6%E6%98%AF%E8%B0%81%E6%83%AF%E7%9A%84&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=4a2biuUJ%2Flf7CLz3fW9cwJRwidWjwtz%2BUIxLbiZ2A6IVdfKhTlmrqzPeRFo&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_6&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=f1e171]: 新
+                      - generic [ref=f1e173]:
+                        - generic [ref=f1e174]: "6"
+                        - link "“我们为什么不爱接电话了”" [ref=f1e175] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E2%80%9C%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E6%8E%A5%E7%94%B5%E8%AF%9D%E4%BA%86%E2%80%9D&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_7&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=f1e177]:
+                        - generic [ref=f1e178]: "7"
+                        - link "晋江火灾鞋厂大量鞋楦被完全烧焦" [ref=f1e179] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%99%8B%E6%B1%9F%E7%81%AB%E7%81%BE%E9%9E%8B%E5%8E%82%E5%A4%A7%E9%87%8F%E9%9E%8B%E6%A5%A6%E8%A2%AB%E5%AE%8C%E5%85%A8%E7%83%A7%E7%84%A6&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_8&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=f1e180]: 热
+                      - generic [ref=f1e182]:
+                        - generic [ref=f1e183]: "8"
+                        - link "浙江宁波大量飞鸟飞离巢穴" [ref=f1e184] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%B5%99%E6%B1%9F%E5%AE%81%E6%B3%A2%E5%A4%A7%E9%87%8F%E9%A3%9E%E9%B8%9F%E9%A3%9E%E7%A6%BB%E5%B7%A2%E7%A9%B4&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_9&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=f1e185]: 热
+                      - generic [ref=f1e187]:
+                        - generic [ref=f1e188]: "9"
+                        - link "夫妻买房十年后起诉卖家" [ref=f1e189] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%A4%AB%E5%A6%BB%E4%B9%B0%E6%88%BF%E5%8D%81%E5%B9%B4%E5%90%8E%E8%B5%B7%E8%AF%89%E5%8D%96%E5%AE%B6&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_10&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=f1e191]:
+                        - generic [ref=f1e192]: "10"
+                        - link "脑死亡丈夫被妻子强留458天后去世" [ref=f1e193] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E8%84%91%E6%AD%BB%E4%BA%A1%E4%B8%88%E5%A4%AB%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%BC%BA%E7%95%99458%E5%A4%A9%E5%90%8E%E5%8E%BB%E4%B8%96&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_11&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=f1e195]:
+                        - generic [ref=f1e196]: "11"
+                        - link "“顾客打人赔偿店家10万”系谣言" [ref=f1e197] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E2%80%9C%E9%A1%BE%E5%AE%A2%E6%89%93%E4%BA%BA%E8%B5%94%E5%81%BF%E5%BA%97%E5%AE%B610%E4%B8%87%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_12&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=f1e199]:
+                        - generic [ref=f1e200]: "12"
+                        - link "泉州市长鞠躬致歉" [ref=f1e201] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%B3%89%E5%B7%9E%E5%B8%82%E9%95%BF%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%AD%89&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_13&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=f1e203]:
+                        - generic [ref=f1e204]: "13"
+                        - link "台风“巴威”进入24小时警戒线" [ref=f1e205] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E8%BF%9B%E5%85%A524%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_14&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=f1e206]: 新
+                      - generic [ref=f1e208]:
+                        - generic [ref=f1e209]: "14"
+                        - link "IU李钟硕宣布分手" [ref=f1e210] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=IU%E6%9D%8E%E9%92%9F%E7%A1%95%E5%AE%A3%E5%B8%83%E5%88%86%E6%89%8B&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_1_15_15&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=f1e212]:
+                        - generic [ref=f1e213]: "15"
+                        - link "台风“巴威”来袭 直击防台一线" [ref=f1e214] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E6%9D%A5%E8%A2%AD%20%E7%9B%B4%E5%87%BB%E9%98%B2%E5%8F%B0%E4%B8%80%E7%BA%BF&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=6c99%2BShaLozieBAM6oB2cJ3S0FA0NBUc01LPD6qpUdoKj2UgmbI5qsI1MX0&rqid=d9411752018923c6&rsf=32852c60c8fdc77e3b8f6b05ddde4f41_16_30_16&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                - generic [ref=f1e221]:
+                  - heading [level=2] [ref=f1e222]:
+                    - link "▶想在此推广您的产品吗?" [ref=f1e223] [cursor=pointer]:
+                      - /url: https://www.baidu.com/other.php?url=000000aex7WmQZg93YB2MpZ8EgOrIzplJ4ryKBwZIM200xSPqNdwRna7YVoCkTnBbsCkJgc1nQKyHLXBX-KBkFhlfRmQkq2tINjDp8uHok4niMiKK4wCWN5Wj3dv1_ZShI00Md5NGSzHhypAE4nqsICFfp1sRuqgBUW0do5MBMsTBbuSDo6g8PfG7eIBCR5IHIyR2B-utNGLbnILsCPnO7VweMdD.DY_NR2Ar5Od66H4g_3_ac2rra6ePCIh6e1FdGhmo_z2N9h9mePqh1T0.TLFWgv-b5Hc0TLFWpyfqn6Kk5fKYUHdsXgwCUv30IgP-T-qYXgK-5H00mywxIZ-suHYkn6KLULFb5fKzmLmqn0KdThkxpyfqnHRYnWfzPjTvPsKVINqGujYs0Adxpyfqn0KVIZK_gv-b5H00TZuxpyfqn0KGuAnqHbC0TA-b5HcL0APGujYzPjf0ug9sgLwGUyRqn1cdnjnvPHDzn0K1mNqhUA7M5H00mLFW5Hn1nWn3&dt=1783671027&wd=python&ai=0_427675661_1_1&tpl=tpl_10341_15816_11345&l=1542424767
+                  - link "咨询热线：400-800-8888" [ref=f1e224] [cursor=pointer]:
+                    - /url: https://www.baidu.com/other.php?url=000000aex7WmQZg93S0XHjeCifaPlHnTCJsuAErwK2vi8jVxuoV_2jX2xePJRZPzhJudqUpwryTS5OPC210VZNp70j6Ya8O20Hxtagn0ltVaq0byhGkRKtsUjSlgcMYDLzviNgp-ImskgyPHYkE5vzOz0_Z-9PL7b4x284NhN1grviUGZUo9t9CayOvB5lLa7OQyBTOiBIIV1UJzRAAQdij6rQCN.DY_NR2Ar5Od66H4g_3_ac2rra6ePCIh6e1FdGhmo_z2N9h9mePqh1T0.TLFWgv-b5Hc0TLFWpyfqn6Kk5fKYUHdsXgwCUv30IgP-T-qYXgK-5H00mywxIZ-suHYkn6KLULFb5fKzmLmqn0KdThkxpyfqnHRYnWfzPjTvr0KVINqGujYs0Adxpyfqn0KVIZK_gv-b5H00TZuxpyfqn0KGuAnqHbC0TA-b5HcL0APGujYzPjf0ug9sgLwGUyRqn1cdnjnvPHDzn0K1mNqhUA7M5H00mLFW5HcsPW63&dt=1783671027&wd=python&ai=0_427675661_1_1&tpl=tpl_10341_15816_11345&l=1542424768
+                  - link "e.baidu.com" [ref=f1e225] [cursor=pointer]:
+                    - /url: https://www.baidu.com/other.php?url=000000aex7WmQZg9347ifSwTCPZSC0Wa0QNYbBWgxfrTvN_nW0p6gUokhHet89xDsHLnfYhOhvlWhZuSsaKS5YuVQg0Sn-TjeZFRe2GDGDnycQb98ONhAaF8nGeoLcmElQc6Fs0Sy_bgSfgmeSxd4JohT1m1kWv37rQNGm1DE4u77f8yQNTG2Xd7MpB1pjldOlXmScqoD7rmQ4qiVWV96osx1Qmn.DY_NR2Ar5Od66H4g_3_ac2rra6ePCIh6e1FdGhmo_z2N9h9mePqh1T0.TLFWgv-b5Hc0TLFWpyfqn6Kk5fKYUHdsXgwCUv30IgP-T-qYXgK-5H00mywxIZ-suHYkn6KLULFb5fKzmLmqn0KdThkxpyfqnHRYnWfzPjTvrfKVINqGujYs0Adxpyfqn0KVIZK_gv-b5H00TZuxpyfqn0KGuAnqHbC0TA-b5HcL0APGujYzPjf0ug9sgLwGUyRqn1cdnjnvPHDzn0K1mNqhUA7M5H00mLFW5Hf4PjbL&dt=1783671027&wd=python&ai=0_427675661_1_1&tpl=tpl_10341_15816_11345&l=1542424769
+        - generic [ref=f1e226]:
+          - generic [ref=f1e229]:
+            - generic [ref=f1e231]:
+              - heading [level=3] [ref=f1e235]:
+                - link "编程环境软件-在线下载-全新安装-中文网站" [ref=f1e237] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWyRPLYYDQWgrgONCz_zN3QZMjU2iMaUJA8Q2eLEt-ikS45uVMaN8Lov2RRzSFmsMuT1rGMv3Ymo32cFX1o9t8TjTeIcbCPYvgKFGXricBImpI1ATAc2Qp721QmMS70FtNbbhusRdmZntAerSXNSTxclGlUpd2Vtwm926HkmDWWhK0sIxKuMhj3RLDuQPvXYIwRR_79sHWaie.7Y_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBSFi_nYQAi1IEz2.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjDLg1DsPjuxrH0dn7tznjRkg1DsnH-xn1msnfKopHYs0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnH0YP-t4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1nzPHmLrjDkndt1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWmYn6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - generic [ref=f1e238]:
+                - link [ref=f1e241] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWyRPLYYDQWgrgONCz_zN3QZMjU2iMaUJA8Q2eLEt-ikS45uVMaN8Lov2RRzSFmsMuT1rGMv3Ymo32cFX1o9t8TjTeIcbCPYvgKFGXricBImpI1ATAc2Qp721QmMS70FtNbbhusRdmZntAerSXNSTxclGlUpd2Vtwm926HkmDWWhK0sIxKuMhj3RLDuQPvXYIwRR_79sHWaie.7Y_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBSFi_nYQAi1IEz2.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjDLg1DsPjuxrH0dn7tznjRkg1DsnH-xn1msnfKopHYs0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnH0YP-t4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1nzPHmLrjDkndt1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWmYn6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "点击可以下载所有版本;这是一种功能强大,轻量便捷的计算机程序设计语言.具有非常简捷而清晰的语法特点,中文版,永久激.." [ref=f1e246] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWyRPLYYDQWgrgONCz_zN3QZMjU2iMaUJA8Q2eLEt-ikS45uVMaN8Lov2RRzSFmsMuT1rGMv3Ymo32cFX1o9t8TjTeIcbCPYvgKFGXricBImpI1ATAc2Qp721QmMS70FtNbbhusRdmZntAerSXNSTxclGlUpd2Vtwm926HkmDWWhK0sIxKuMhj3RLDuQPvXYIwRR_79sHWaie.7Y_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBSFi_nYQAi1IEz2.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjDLg1DsPjuxrH0dn7tznjRkg1DsnH-xn1msnfKopHYs0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnH0YP-t4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1nzPHmLrjDkndt1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWmYn6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - generic [ref=f1e249]:
+                - generic [ref=f1e251]:
+                  - generic [ref=f1e252]:
+                    - text: "热销产品:"
+                    - link "全新版本" [ref=f1e253] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWU93fzSsBxmiURXv5CCb_HSkJ9Ji9B5hFSJC-vQDHtbcNY4P6VDN3iewo28aSzNbkws6p8GGruaPMZ4P27Tz_oc3POrY6eoynEnpCZgqbUtiSt4sDS3nmcfGLLyGReJRheO-rPfcfaKG1bSqwwOSaOw0ukD8DALRCHS4hayd9xk1GY7CqttnZz6EigfmYOcyPvAZIdz928Ye.7D_NR2Ar5Od66EotG_jngY5ktb7TA5wfJI7MoThBS2Ki_nYQZugvUSkf.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjfvg1DsnHIxrH0dn7tznjRkg1DsnH-xn1msnfKopHYk0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsPjuxnH0kPdt4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YLnjfv&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - link "功能强大" [ref=f1e254] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWTtaXI0vjGBs9aku7lwYWjr9lzuQGhnY7iqR61ibYHRNdOX3vI9W3QDJGeJabfRUMswDjFz4w2JHGsbc_Rkl_sU9XQdnHORLlYMeNta_KoS2Qxt1l2Smoje_PXTA0vwTk1aB9c0o9NZjo8xF5zX2YE68UTyHd69j3ZB8RU4T9OZRwqBI7eTGYadybXIg72RYfcZwRU_32HWf.7R_NR2Ar5Od66EotG_jngY5ktbAijZCCNrB1d8Hwx70GyAp7WuYdq26.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjfvg1DsnHIxrH0dn7tznjRkg1DsnH-xn1msnfKopHYz0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsPjuxnH0kPdt4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YvPjf3n6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - link "所有版本" [ref=f1e255] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWySYWOFKSZu9DJQuoVO6ozoCehTetva6MpJDjtKtUHNXxu8-c1BOOpOUsGdk6OMyFt4qwPURy4ear3pH3_1N6gSfwd3_hn881L32taSuNAujpo-ul9YOwaUrZx8nypK85_QZ2HxEFY7YXQ6KnAjyzdVsHqOMHASL0wyxoMgag_MdYbZBduO-MuyOcDOCLM3dN_89pZwjuTHd.7D_NR2Ar5Od66EotG_jngY5ktbZAjZCCNrB1d8Hwx70GyAp7WIgYe-0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjfvg1DsnHIxrH0dn7tznjRkg1DsnH-xn1msnfKopHY10ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsPjuxnH0kPdt4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1Yzn1f3rf&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - generic [ref=f1e256]:
+                    - text: "热门推荐:"
+                    - link "兼容性极强" [ref=f1e257] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWiD2i1vW5Wl4unWjZXr6PxN2zRmbb-mQB_pHp3JBvqbWMnaaCFNfkKUxKHc1alPcms10NGAU6wku4pUGfEvZP1s_VOeybsrkbTbtGku-j34D42V4JFTOPnpdB9PYCibLM5Gc2u4wA4eo1rkR47t-XJInaosFj9slGqGKpao5JC1wQjcKKiKogOVkgpwr6rEyaEj8KbpEPpFH.7D_NR2Ar5Od66EotG_jngY5ktb7TA5wfJI7MoThBS2Ki_nYQZugvUSkf.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjfvg1DsnHIxrH0dn7tznjRkg1DsnH-xn1msnfKopHYY0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsPjuxnH0kPdt4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YkPHDYPs&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - link "长期激活" [ref=f1e258] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWfqk5XJzTVe2c0QutDEI48aniUqBquGNIq5mYjXooWxK69le3VlRcIPkHXNvdOZFldOZY2DCJ6YIFzHlExrMLbyNAoxrpeiob6nzhDZPWyFYKLr7gfvZW5_I8U7_W_SezwhF8zz9egmFC2hevHHUAHw6II2zb_XsWhITzgdlPtysWJ28gs3pc4kcf5Y41vAvPn_8MyLy01Jy.7R_NR2Ar5Od66EotG_jngY5ktbAijZCCNrB1d8Hwx70GyAp7WuYdq26.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjfvg1DsnHIxrH0dn7tznjRkg1DsnH-xn1msnfKopHYd0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsPjuxnH0kPdt4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1Y1rHm3r0&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - link "一键安装" [ref=f1e259] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWH8MbC95zcypZszo-i28zbDVU24O39xeWH_gID6X-vw6LzuA_x_Zmy36qDlinYlLniN0_PMxcvBbnp-rCZZzp5WBpVIlN7bGQq_pMRWGKvfotlsRznQ-IvARIr1SRdzjhNJKe59OGb5LtdGBHsXSYULqSjLOSEWuhjGWQss8BqI8YSvC9BbxPFK2iWlod0OCC8IVQakOGvLU.7D_NR2Ar5Od66EotG_jngY5ktbZAjZCCNrB1d8Hwx70GyAp7WIgYe-0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjfvg1DsnHIxrH0dn7tznjRkg1DsnH-xn1msnfKopHYv0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsPjuxnH0kPdt4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1Y1nHR4P6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - generic [ref=f1e261]:
+                  - generic [ref=f1e262]:
+                    - link [ref=f1e264] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWUS_fxJoBw3mVz3MYb23HEtTnir5luOVw3vrBUsOMspdzd-gbPxSFvk8tnULoMLjcdw2-Y7b9NjRBJR57daEe13v04DsenW9OXWC8ny5p4EP5Z8zxy_HrNu-UeNYKOCcIGMHy_X5H8DHqotPUoFVx4dOobhD_OBl26EgB9Y5joyoNnVD8jfbupijTSamGSkLlcXPkOYG_V4J.7b_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBS2Ki_nYQZugvUld0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjY4njRsg1DsnHIxnH0YP-tznjRkg1DsnH-xn1msnfKopHYk0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HbsPHKxnH0kPdtknjfvg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YdrHT4r0&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - link "全新版本" [ref=f1e266] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWUS_fxJoBw3mVz3MYb23HEtTnir5luOVw3vrBUsOMspdzd-gbPxSFvk8tnULoMLjcdw2-Y7b9NjRBJR57daEe13v04DsenW9OXWC8ny5p4EP5Z8zxy_HrNu-UeNYKOCcIGMHy_X5H8DHqotPUoFVx4dOobhD_OBl26EgB9Y5joyoNnVD8jfbupijTSamGSkLlcXPkOYG_V4J.7b_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBS2Ki_nYQZugvUld0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjY4njRsg1DsnHIxnH0YP-tznjRkg1DsnH-xn1msnfKopHYk0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HbsPHKxnH0kPdtknjfvg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YdrHT4r0&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - generic [ref=f1e268]:
+                    - link [ref=f1e270] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWNUAPPITw5rsMMU09WhLQ6_Ut5ATY0Fr2HlJqCqodBD3_ZT8B3dfkzQtIU-wXfYCbWGcg-eyDNcUYvIC1G_c50OZCQTmv5O85jhLwKSKyQo76khBKDv8ieJ3WhSHUOnY86zC3QByLf8QLypcByDD2CLDTS89B7Vo3dkIME1STQs9Mk4bweD4eiBahA0Y-d4duAIwbgLdE2t_.7b_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBS2Ki_nYQZugvUld0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjY4njRsg1DsnHIxnH0YP-tznjRkg1DsnH-xn1msnfKopHYz0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HbsPHKxnH0kPdtknjfvg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YzPHfv&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - link "一键安装" [ref=f1e272] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWNUAPPITw5rsMMU09WhLQ6_Ut5ATY0Fr2HlJqCqodBD3_ZT8B3dfkzQtIU-wXfYCbWGcg-eyDNcUYvIC1G_c50OZCQTmv5O85jhLwKSKyQo76khBKDv8ieJ3WhSHUOnY86zC3QByLf8QLypcByDD2CLDTS89B7Vo3dkIME1STQs9Mk4bweD4eiBahA0Y-d4duAIwbgLdE2t_.7b_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBS2Ki_nYQZugvUld0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjY4njRsg1DsnHIxnH0YP-tznjRkg1DsnH-xn1msnfKopHYz0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HbsPHKxnH0kPdtknjfvg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YzPHfv&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - generic [ref=f1e274]:
+                    - link [ref=f1e276] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWTADkq9AqdOmaNtkBM4CBHJdnerKG0oFtZ1ShJOpjhDYcAb-GUaeiRYUZmsCoWOEmKU0fxRyIy0vTzpJAXEJ7GYgrCZtEWBswXhp3kipJF1CqvNMongUqV3mh6oGNujzxmAWkGHPbTF6lAD7JvzUDVxaotugG00Rpyq-8QcCtEr5dEWh-Q_3c4NXo9_kyvcMrz7JGp3j-ofz.7b_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBS2Ki_nYQZugvUld0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjY4njRsg1DsnHIxnH0YP-tznjRkg1DsnH-xn1msnfKopHY10ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HbsPHKxnH0kPdtknjfvg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYn1fLns&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - link "安全无毒" [ref=f1e278] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWTADkq9AqdOmaNtkBM4CBHJdnerKG0oFtZ1ShJOpjhDYcAb-GUaeiRYUZmsCoWOEmKU0fxRyIy0vTzpJAXEJ7GYgrCZtEWBswXhp3kipJF1CqvNMongUqV3mh6oGNujzxmAWkGHPbTF6lAD7JvzUDVxaotugG00Rpyq-8QcCtEr5dEWh-Q_3c4NXo9_kyvcMrz7JGp3j-ofz.7b_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBS2Ki_nYQZugvUld0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjY4njRsg1DsnHIxnH0YP-tznjRkg1DsnH-xn1msnfKopHY10ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HbsPHKxnH0kPdtknjfvg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYn1fLns&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - generic [ref=f1e280]:
+                    - link [ref=f1e282] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWw1XhFl22cP4tt6MApIY3UGRczGFBARmZ3mVCSA6KoSqlGTlMOshvPbrn6h3zcVpbdCU6xKkI0Bne7fLMtx2HePujjfv8lp2nvgRaRWOfYxaNI5hBZLRwX6zIBTxfVpxLcEGGq9esVQiUgH0jtPtR7jDI7qVGv8L5XrJ6CCW_SvpAchs4WoDjCLqWhgzMK39MLtHOp_YDR15.7b_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBS2Ki_nYQZugvUld0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjY4njRsg1DsnHIxnH0YP-tznjRkg1DsnH-xn1msnfKopHYY0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HbsPHKxnH0kPdtknjfvg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YdnHRkPf&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - link "历史版本下载" [ref=f1e284] [cursor=pointer]:
+                      - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWw1XhFl22cP4tt6MApIY3UGRczGFBARmZ3mVCSA6KoSqlGTlMOshvPbrn6h3zcVpbdCU6xKkI0Bne7fLMtx2HePujjfv8lp2nvgRaRWOfYxaNI5hBZLRwX6zIBTxfVpxLcEGGq9esVQiUgH0jtPtR7jDI7qVGv8L5XrJ6CCW_SvpAchs4WoDjCLqWhgzMK39MLtHOp_YDR15.7b_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBS2Ki_nYQZugvUld0.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjY4njRsg1DsnHIxnH0YP-tznjRkg1DsnH-xn1msnfKopHYY0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HbsPHKxnH0kPdtknjfvg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Y1nWRvP16knHPxn7t1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YdnHRkPf&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "扬州零度数智网络科技 2026-07  广告" [ref=f1e289] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWyRPLYYDQWgrgONCz_zN3QZMjU2iMaUJA8Q2eLEt-ikS45uVMaN8Lov2RRzSFmsMuT1rGMv3Ymo32cFX1o9t8TjTeIcbCPYvgKFGXricBImpI1ATAc2Qp721QmMS70FtNbbhusRdmZntAerSXNSTxclGlUpd2Vtwm926HkmDWWhK0sIxKuMhj3RLDuQPvXYIwRR_79sHWaie.7Y_NR2Ar5Od66EotG_jngY5ktbA5wfJI7MoThBSFi_nYQAi1IEz2.U1Yk0ZDqTZ-YpAq80ZKGm1Ys0ZK1pyI85iY0IjdsXgwCUv30pyYqnWcd0ATqTZPYT6KdpHdBmy-bIfKspyfqnWT0mv-b5HcYP0KVIjYknjDLg1DsPjuxrH0dn7tznjRkg1DsnH-xn1msnfKopHYs0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HDsnHIxnH0YP-t4njRsg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYznjD3n16dPW6v0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqPWPxn7tkPH00IZN15HDzrHcLn1m4rj6vPHcsnWmzP1R0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg1Kxn0Kbmy4dmhNxTAk9Uh-bT1Ysg1nzPHmLrjDkndt1nWRvP16knHPxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0mMfqn0KEmgwL5H00ULfqn0KETMKY5H0WnanWnansc10Wna3snj0snj0WnaPDw-fWnanVc108nj0snj0sc1D8nj0snj0sc10WnansQW0snj0snansc10Wnansc10Wnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW0sg108njKxna3sn7tsQW04g108PjPxna3Yr7tkQW0sg1D8njKxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YYPWmYn6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - generic [ref=f1e290]: 扬州零度数智网络科技
+                  - text: 2026-07
+                  - generic [ref=f1e291]: 
+                  - generic [ref=f1e294]: 广告
+            - generic [ref=f1e300]:
+              - heading [level=3] [ref=f1e302]:
+                - link "python-编译器-在线编译运行" [ref=f1e304] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWRTEcVOxz-UruTSuQczJjtpcCMD36AnGnLw3_8dDCVV6sm_Y-Nbsh47QNNFYQu67f_T7gyWAamAX1Htl1cSH8ninR6yy-6udQzG5XQh02wkhsM6qgn0qOIq_BG6XurOScmvbcftGQwovbxVe2hAeqXdMV9dsX50EMl84ssK_fVQSEjH-f0baOg7jIqjUpzeZLq_4h6aUy6d-.7Y_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQh2SE_mkl27HCEdT5M33xg3TrOGsSX1jexo9Ld3x5I9Let5VvIxCmE8RojPakbtI-Ip6.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0UgfqnH0kPdt1njDkg1csPH7xnH0krNt1PW0k0AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0kPdt1njDkg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn7t1nHfknH0krjuxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1Y3P1cd&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - generic [ref=f1e306]:
+                - generic [ref=f1e307]:
+                  - text: "学习方式:"
+                  - link "Pyth0" [ref=f1e308] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWi6l1XTJLCsJF1WTlYPSaVeJe5HxXSpAuMU0C0APIUsq9SI02JW7MkeJvkLcOzmgklN8mB0Td3zwtFUGvOBZVx5T-ly3g8R9-o1ouVO4p_MnnHuzCryIWfJMQVqJyJ7leuHfr4hsaNMcKyWJ7caFRx2NinR2LtEjVXMYyD-33EkIJMJfkUAirRpA0YS753fDFa7ItnSBNGBU.7b_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQh2SEYngL2N9h9meQr1uER.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5HD0TMfqrHTd0AFG5HDdr7tznjf0Uynqn10knNtknjDLg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1DYnHDsnH6vg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1YzPjnYrf&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - link "软件开发" [ref=f1e309] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWpyM8G0C9uBTQ8MF4oa7E4XteUbEMhCpG1MeTT3_TgEVkgV49bFUPpiyZg2r_9KGhLPpSG_jToa3PLcoIPoR1fKtspnZCUKGDzGm52ZqRxlbY33QR8G1ctPmdy9xFp-k-yijXPgu41iZdCfsn_Kmye_sdlDl0zfnUkKE1rU30dkL7o4iK8j-y942t5JShRXGs02-xgBYBxPv.DY_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQh2tMglAQe-2s1f_NerMWyC0.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5Hc0TMfqrHTd0AFG5HDdr7tznjf0Uynqn10knNtknjDLg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1DYnHDsnH6vg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1YknHnzP0&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - link "在线下载" [ref=f1e310] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWwwB1c5P5M4guUAhzibIQI02XTHePg1aYTmWipP0PVhQm-N_u833wpbPh8Kyp3ioA_ypeZo6bbbTE8EwW8SK7nal273_l4bTWJdxUCpRY5HDwUKXjEsMoufK0qTAYhSZqcgGWKOkqPRGELunWKbgtNOMY2EBF8gk65yuFp9qjYgaauNsnCJEfwjGZ0w72EArJ2MQUWORPeJ7.7D_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQh2S5glAQe-2s1f_NvUSM_R0.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5Hn0TMfqrHTd0AFG5HDdr7tznjf0Uynqn10knNtknjDLg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1DYnHDsnH6vg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1YYPWmYns&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - link "更多" [ref=f1e311] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWprNvrRQyq5TXJ3Pu355DG788pZjxvUVjk6OZMyVLM_Czqs93BX_GRLXS7Ju4FaD5Ntdf3a6EmmRx9Sajsu2q6etvGJps2HNmm8E3XfGUNaCGzxtVhg2y2NHAl2DC_O0NaivRcxqb41pIWnSIpLx7tCUQy7DxXStpELiOwFGWxaoOA6wvIw0R3VQoaDaGpKApacsPHWarIAa.DD_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQh2S1oqj7qz-muCyr1u_e57f.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5HDs0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HnsnH7xnH0kPdtznjRkg1DsnH-xn0KkTA-b5H00TyPGujYs0ZFMIA7M5H00Uh7GujYs0A49IZ0qn0KWIyfqPjc3rjTkPHnL0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqn17xn1DYg1DknfKYIgnqnHc1PjnYPj6knH63P1czrjbvPHc0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0Aw-I7qWTADqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HnkPjDknjD3P-tsg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1f0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0UvnqnfKBIjY10Aq9IZTqn0KEIjYk0AqzTZfqnBnsc1Dsc1cWn1bLnj61rjTknin4rH0sc1b4nj08nj0snj0sc1nWnBnsczYWna3sn1bdPHDWni3snj0snj0Wninsc108nj0snj0sc10Wn1csnWfdrjczPWmWnansc1DWnansc108nj00mh78pv7Wm1YzPinznznzPinkr0KkgLmqna3sn7tsQW0sg108njKxna3knNtsQWRkg108n1Ixna34n-tsQWbzg1Kxn7ts0AF1gLKzUvwGujYs0ZFEpyu_myTqP0KVugfqn0KWugw9u1Yz0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqnW030ZKsPjYkn0KWThnqnHcvnjb&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - text: 更多
+                    - generic [ref=f1e312]: 
+                - generic [ref=f1e313]:
+                  - text: "热门软件:"
+                  - link "一键安装5" [ref=f1e314] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWUluprIieMipsAkj2nyOT1UUIVsUPhUlS8fNQe5elEqYPzg5kn9zmnzrU04Euywnos74EsW5LSAV2BLv-r-43dyv2jRSujr5sNNKMoWjGQ8ICmDDRJj6dSbpJZnminc5tgBVR3EORWwdLA00xrt3M9kL55UiTyoNAJVcl76GOSiQMAsiKwfo1x5hNp5fK0lIYfkkGZhteqs8.DD_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQhnMglAQe-2s1f_UVMHYed.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5Hf0TMfqrHTd0AFG5HDdr7tznjf0Uynqn10knNtknjDLg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1DYnHDsnH6vg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1YdrHmL&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - link "编程开发" [ref=f1e315] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWHlTPYzB_8EuYh0bNmkReYfXmfojLbs2oGZ_NZssVWyNcA2rj-b-pl4pmmVLAXWINXN-6klUNTtwbfIynhgx_SMNQEPuLqViPsUwGCbZi8MNzzSkuZyM3HiuH-O0HT8EE8-0laFYel9Eq9bMJUylwMuExyiHbhxP3mPbdszT8RElFs85EPzZjMJukdb1VCE79cW6450BxRoM.7Y_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQhn-xglAQe-2s1f_IMu3eS26.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5HR0TMfqrHTd0AFG5HDdr7tznjf0Uynqn10knNtknjDLg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1DYnHDsnH6vg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1Y1PWDvn0&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - link "可选版本" [ref=f1e316] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWXztRqigUx1VvUuJWby3lpZ9LkKiunwKVE9Ji9di-WYOr5Hp_iJcQVFm9B3tvAiPf5rEwhccWgnNiUai4jLdGblm4LI8n9Or_qUTgrkghWVUm5uU9Qz1bmmiZ4NFrluThegK-hcaXOssbQNWpIL686IFsXJQnzGRrOhV9w_NVl5dgbpg-3LLSsRdmtSXEhud1oG4UwjW1qM6.7b_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQhnhHoqj7qz-muCyPLu3e2d0.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5Hm0TMfqrHTd0AFG5HDdr7tznjf0Uynqn10knNtknjDLg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1DYnHDsnH6vg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1YvPHDznf&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - link "更多" [ref=f1e317] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWUqYAzC8MIyO8icy-ZxVpXVMUKhwthINptGcYvSSPS4sA7GQIUyWerd6zNZxY7YP50rlalCLvVK3SQGSRHVFrxQfENicWu-QoEaC-5WhL3uZQhkmUPwvID39zEbIs6H7A2RzEzmwA088nxDcBaCvbREP0aV8nJfKVk6ZIme8xyzWxQK53wismc-sedt1m8vy2o7jO7DkymqY.7Y_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQhnMZoqj7qz-muCyr1k_vI26.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5HDk0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HnsnH7xnH0kPdtznjRkg1DsnH-xn0KkTA-b5H00TyPGujYs0ZFMIA7M5H00Uh7GujYs0A49IZ0qn0KWIyfqPjc3rjTkPHnL0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqn17xn1DYg1DknfKYIgnqnHc1PjnYPj6knH63P1czrjbvPHc0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0Aw-I7qWTADqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HnkPjDknjD3P-tsg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1f0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0UvnqnfKBIjY10Aq9IZTqn0KEIjYk0AqzTZfqnBnsc1Dsc1cWn1bLnj61rjTknin4rH0sc1b4nj08nj0snj0sc1nWnBnsczYWna3sn1bdPHDWni3snj0snj0Wninsc108nj0snj0sc10Wn1csnWfdrjczPWmWnansc1DWnansc108nj00mh78pv7Wm1YzPinznznzPinkr0KkgLmqna3sn7tsQW0sg108njKxna3knNtsQWRkg108n1Ixna34n-tsQWbzg1Kxn7ts0AF1gLKzUvwGujYs0ZFEpyu_myTqP0KVugfqn0KWugw9u1Yz0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqnW030ZKsPjYkn0KWThnqPjn3PHf&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - text: 更多
+                    - generic [ref=f1e318]: 
+                - generic [ref=f1e319]:
+                  - text: "热门课程:"
+                  - link "赠送教程" [ref=f1e320] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWyn7kJx7K4d4maKFSvEW0bS7ZfeYyV6gZJy1Yhl73zlaFEjKgzIzWq1vTqHIlX-XUYtfWAelPNny5gOdJ50relog1Wdh5XwXIkJvBQjjmP4vrSD9DSZj5bCw-vwAycYCS0kv_CJjr4-YIompBoca1X2vGhk8Q4yl7iIIZVLqRA0ARN0EzedKR3mhM_S9IpWR0Hne2C8nnG50.DD_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQhr5glAQe-2s1f_TX1Gzu7.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5HT0TMfqrHTd0AFG5HDdr7tznjf0Uynqn10knNtknjDLg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1DYnHDsnH6vg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1YzPHTkn0&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - link "一键安装" [ref=f1e321] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWHvUFQXSuKY8c_clbkQ1VuM21_7K14I4UH9nF6gC_FNlM14oAXO_Vzd2pWy1KfiLcmQrBIzDCJGGJMFQYXl09l3C2r04oh4t4J1U-Doz93RzhpQl4lEZgpJnZ7UAKFXD-tBGi18djsO_-Ah4RZfP_zBLLSRCW1IkMp54McfW3SeTOooj6HRRUBO2yNyOqV0vd8cPxfQqy2D8.DY_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQhrPxglAQe-2s1f_TxAEFmC0.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5H60TMfqrHTd0AFG5HDdr7tznjf0Uynqn10knNtknjDLg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1DYnHDsnH6vg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1YzPH0snf&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - link "立即开始" [ref=f1e322] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWguXpf-Md08YT_q5ve0kk1GhpzClFp-oHGkHF8EbwvwXmuNVuv-hKsw8cgudCe9TUvXvFXBCI8hmUHz2_NkrW7-fLI5RLMV7N-ues-k4QbIEiPz26Upw3UWuaHqoLoLHB8eU7URRl8yvW2GJcZ8aoT2PoF85WsxKufc5izVjIccuuZtwQj2ujVPt4vP-o4EzIXR10B8bDOX6.7D_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQhrrHoqj7qz-muCyPvOxu_R0.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5Hb0TMfqrHTd0AFG5HDdr7tznjf0Uynqn10knNtknjDLg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1DYnHDsnH6vg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1YvPjfzn6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - link "更多" [ref=f1e323] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWghdI09T8q-wKSbkmAMmXA61JbRbROy6Z51Sn9ytMGyzg7GEJisQhfnW0qntU8OGJSg-6XyeTLklJqkV9xaa0SAIT1dQFFiMEVjV9XytBSkkZNVlHiq1X4m0L4AF_WsPvC1lV4rpuyTd2CHL1vXemBYTiPnIh-_uL4PtP5OZDyhsKh0kp8_vRU78mW18NCTY9SF4ZwZ-EHno.7b_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQhr5Zoqj7qz-muCyr5u_3ed0.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn10knNtknjDLg1csPH7xnH0krNt1PW0k0AVG5HDz0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HnsnH7xnH0kPdtznjRkg1DsnH-xn0KkTA-b5H00TyPGujYs0ZFMIA7M5H00Uh7GujYs0A49IZ0qn0KWIyfqPjc3rjTkPHnL0A7B5HKxn0K-ThTqn0KsTjYs0A4vTjYsQW0snj0snj0s0AdYTjYs0AwbUL0qn0KzpWYs0Aw-IWdsmsKhIjYs0ZKC5H00ULnqn0KBI1Ykn0K8IjYs0ZPl5fK9TdqGuAnqTZnVuyPJ0A-bm1dri6KspZw45fKYmgFMugfqn17xn1DYg1DknfKYIgnqnHc1PjnYPj6knH63P1czrjbvPHc0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0Aw-I7qWTADqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HnkPjDknjD3P-tsg1Kxn7ts0ZK9I7qhUA7M5H00uAPGujYkn1DsP1f0ugwGujYvP0K9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW0kP10Y0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0UvnqnfKBIjY10Aq9IZTqn0KEIjYk0AqzTZfqnBnsc1Dsc1cWn1bLnj61rjTknin4rH0sc1b4nj08nj0snj0sc1nWnBnsczYWna3sn1bdPHDWni3snj0snj0Wninsc108nj0snj0sc10Wn1csnWfdrjczPWmWnansc1DWnansc108nj00mh78pv7Wm1YzPinznznzPinkr0KkgLmqna3sn7tsQW0sg108njKxna3knNtsQWRkg108n1Ixna34n-tsQWbzg1Kxn7ts0AF1gLKzUvwGujYs0ZFEpyu_myTqP0KVugfqn0KWugw9u1Yz0APv5fKGTdqWTADqn0KWTjYs0AN1IjYs0Z7MIvfqn0KETjDqnW030ZKsPjYkn0KWThnqPHRYnjT&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                    - text: 更多
+                    - generic [ref=f1e324]: 
+              - link "厦门六潇云网络科技 2026-07  广告" [ref=f1e328] [cursor=pointer]:
+                - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWRTEcVOxz-UruTSuQczJjtpcCMD36AnGnLw3_8dDCVV6sm_Y-Nbsh47QNNFYQu67f_T7gyWAamAX1Htl1cSH8ninR6yy-6udQzG5XQh02wkhsM6qgn0qOIq_BG6XurOScmvbcftGQwovbxVe2hAeqXdMV9dsX50EMl84ssK_fVQSEjH-f0baOg7jIqjUpzeZLq_4h6aUy6d-.7Y_NR2Ar5Od66E8t8hqLmBKtRIKhWwqSS-WZCCNrB1kdITI7hQDkg3eq-IMZW3dqIR1_A5DkgkvNeoPdMuublqJIZ0lpeDkgvTXMkzu5ZWvTxZFd9hi1fxqay2S1W3vIhiEuYtX5yPQh2SE_mkl27HCEdT5M33xg3TrOGsSX1jexo9Ld3x5I9Let5VvIxCmE8RojPakbtI-Ip6.U1Yz0ZDqTZ-YpAq80ZKGm1Ys0ZfqTZ-YpAq8FHcs_XjiltUL0A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0UgfqnH0kPdt1njDkg1csPH7xnH0krNt1PW0k0AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0kPdt1njDkg1csPH7xnH0krNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW63P1Ddn1T0mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknWnYn1fYrjDkrj6LnWc3rHmdn6Kzug7Y5HDLrjnvP1DsnWTsPWD0pynqn0K1pyfqujbYnHDLPHcsnH64nWPWP6KWTvYqPW64wj0YnYDvPWDdPRPjn6K_mMnqn0K9m1Yk0ZK85H00TydY5H00Tyd15H00uANYgvPsmHYs0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn7t1nHfknH0krjuxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HD1nH0LP0K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjDLnjf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WnH0WnBn1rHTsrjn3P1Dkc1b4nj0WrHbsna3snj0snj0Wnznzc10WQinsQW01rHRdninkQW0snj0snankc10Wna3snj0snj0Wnan1nW0zPjR3nWcvPBnsc10Wninsc10Wna3sn0KBmy4omyPW5Hcdc1c1c1cdc1D30Z7xIWYsQW0sg108njKxna3sn7tsQWDkg108PH7xna31PdtsQWbzg108rHFxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1YY0Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1Y3P1cd&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - generic [ref=f1e329]: 厦门六潇云网络科技
+                - text: 2026-07
+                - generic [ref=f1e330]: 
+                - generic [ref=f1e333]: 广告
+            - generic [ref=f1e339]:
+              - heading [level=3] [ref=f1e341]:
+                - link "2026python-网络爬虫基础每天免费网上学习python基础.." [ref=f1e343] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWi0agxB-AVmGWin2eyBzP-4uww49hyzAX7iEaUi_8BtOM73P-DEzqLthb0F3jX1VUMylkS-mYWrSZdQvz5eKQxdOwpmsSEwvUACC9vW46QuGq9ZweXIdFkU7NdxhuLB8R_S327-CO9V_yukZ52MP-EFA2e0BFRaE01a-hxZFjFfi69e1TRMd-5n6Uir2fg0Ga6_QZiO_dvk2.DY_NR2Ar5Od66JsIJIhkDDpyuCpC5CkFILeRl5vLHRUhnXB9RlQj4SrZu_sSL3T5M_seqSZvSEyPr-BqM76lqE0kgkvUr5mGyAp7BEGvur26.U1Y10ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq8FHcs1xWa4tg0_SpeSUi90A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0UgfqnH0vnNt1nHbvg1DsnH-xnW0dnNt1PW0k0AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0vnNt1nHbvg1DsnH-xnW0dnNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW6dnWnkPW00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknHnvP1fdnjbYnj6kP16vnWcY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HnvrHTvrH9xnWfsnHmkn-tsg1Kxn0Ksmgwxuhk9u1Ys0AwWpyfqn1DYPHTzr0K-IA-b5iYk0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjD4njf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0s0AF9UhV9mvnqnansc10Wn0K3TLwd5HcYnH61PjRk0Z7xIWYsQW0sg108njKxna3sn7tsQWDLg108Pj-xna31ndtsQW6Lg108rjIxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Y10Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YzrHbzrf&us=newvui&xst=mWYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwf715HDdPWRYrjD4PjcsPWbLnjTvPWT3g1czPNtz0gTqTZ-YpAq8cnL3s8x7sQ5h8OhYCf7k5gK4IA9EU67d5HcYnH61PjRk0gfqnHT3n1mLnH0zPs7VTHYs0W0aQf7Wpjdhmdqsms7_IHYs0yP85yF9pywd0gFY5H0KnHbsPH64Pjf3rf&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - generic [ref=f1e345]:
+                - link "入门:零基础学习品牌:虎课网模式:案例式讲解特色:海量免费教程" [ref=f1e346] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWi0agxB-AVmGWin2eyBzP-4uww49hyzAX7iEaUi_8BtOM73P-DEzqLthb0F3jX1VUMylkS-mYWrSZdQvz5eKQxdOwpmsSEwvUACC9vW46QuGq9ZweXIdFkU7NdxhuLB8R_S327-CO9V_yukZ52MP-EFA2e0BFRaE01a-hxZFjFfi69e1TRMd-5n6Uir2fg0Ga6_QZiO_dvk2.DY_NR2Ar5Od66JsIJIhkDDpyuCpC5CkFILeRl5vLHRUhnXB9RlQj4SrZu_sSL3T5M_seqSZvSEyPr-BqM76lqE0kgkvUr5mGyAp7BEGvur26.U1Y10ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq8FHcs1xWa4tg0_SpeSUi90A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0UgfqnH0vnNt1nHbvg1DsnH-xnW0dnNt1PW0k0AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0vnNt1nHbvg1DsnH-xnW0dnNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW6dnWnkPW00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknHnvP1fdnjbYnj6kP16vnWcY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HnvrHTvrH9xnWfsnHmkn-tsg1Kxn0Ksmgwxuhk9u1Ys0AwWpyfqn1DYPHTzr0K-IA-b5iYk0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjD4njf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0s0AF9UhV9mvnqnansc10Wn0K3TLwd5HcYnH61PjRk0Z7xIWYsQW0sg108njKxna3sn7tsQWDLg108Pj-xna31ndtsQW6Lg108rjIxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Y10Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YzrHbzrf&us=newvui&xst=mWYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwf715HDdPWRYrjD4PjcsPWbLnjTvPWT3g1czPNtz0gTqTZ-YpAq8cnL3s8x7sQ5h8OhYCf7k5gK4IA9EU67d5HcYnH61PjRk0gfqnHT3n1mLnH0zPs7VTHYs0W0aQf7Wpjdhmdqsms7_IHYs0yP85yF9pywd0gFY5H0KnHbsPH64Pjf3rf&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - generic [ref=f1e347]:
+                    - generic [ref=f1e348]: 入门:零基础学习
+                    - generic [ref=f1e349]: 品牌:虎课网
+                    - generic [ref=f1e350]: 模式:案例式讲解
+                    - generic [ref=f1e351]: 特色:海量免费教程
+                - link [ref=f1e352] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWi0agxB-AVmGWin2eyBzP-4uww49hyzAX7iEaUi_8BtOM73P-DEzqLthb0F3jX1VUMylkS-mYWrSZdQvz5eKQxdOwpmsSEwvUACC9vW46QuGq9ZweXIdFkU7NdxhuLB8R_S327-CO9V_yukZ52MP-EFA2e0BFRaE01a-hxZFjFfi69e1TRMd-5n6Uir2fg0Ga6_QZiO_dvk2.DY_NR2Ar5Od66JsIJIhkDDpyuCpC5CkFILeRl5vLHRUhnXB9RlQj4SrZu_sSL3T5M_seqSZvSEyPr-BqM76lqE0kgkvUr5mGyAp7BEGvur26.U1Y10ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq8FHcs1xWa4tg0_SpeSUi90A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0UgfqnH0vnNt1nHbvg1DsnH-xnW0dnNt1PW0k0AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0vnNt1nHbvg1DsnH-xnW0dnNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW6dnWnkPW00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknHnvP1fdnjbYnj6kP16vnWcY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HnvrHTvrH9xnWfsnHmkn-tsg1Kxn0Ksmgwxuhk9u1Ys0AwWpyfqn1DYPHTzr0K-IA-b5iYk0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjD4njf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0s0AF9UhV9mvnqnansc10Wn0K3TLwd5HcYnH61PjRk0Z7xIWYsQW0sg108njKxna3sn7tsQWDLg108Pj-xna31ndtsQW6Lg108rjIxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Y10Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YzrHbzrf&us=newvui&xst=mWYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwf715HDdPWRYrjD4PjcsPWbLnjTvPWT3g1czPNtz0gTqTZ-YpAq8cnL3s8x7sQ5h8OhYCf7k5gK4IA9EU67d5HcYnH61PjRk0gfqnHT3n1mLnH0zPs7VTHYs0W0aQf7Wpjdhmdqsms7_IHYs0yP85yF9pywd0gFY5H0KnHbsPH64Pjf3rf&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - link [ref=f1e355] [cursor=pointer]:
+                - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWi0agxB-AVmGWin2eyBzP-4uww49hyzAX7iEaUi_8BtOM73P-DEzqLthb0F3jX1VUMylkS-mYWrSZdQvz5eKQxdOwpmsSEwvUACC9vW46QuGq9ZweXIdFkU7NdxhuLB8R_S327-CO9V_yukZ52MP-EFA2e0BFRaE01a-hxZFjFfi69e1TRMd-5n6Uir2fg0Ga6_QZiO_dvk2.DY_NR2Ar5Od66JsIJIhkDDpyuCpC5CkFILeRl5vLHRUhnXB9RlQj4SrZu_sSL3T5M_seqSZvSEyPr-BqM76lqE0kgkvUr5mGyAp7BEGvur26.U1Y10ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq8FHcs1xWa4tg0_SpeSUi90A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0UgfqnH0vnNt1nHbvg1DsnH-xnW0dnNt1PW0k0AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0vnNt1nHbvg1DsnH-xnW0dnNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW6dnWnkPW00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknHnvP1fdnjbYnj6kP16vnWcY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HnvrHTvrH9xnWfsnHmkn-tsg1Kxn0Ksmgwxuhk9u1Ys0AwWpyfqn1DYPHTzr0K-IA-b5iYk0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjD4njf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0s0AF9UhV9mvnqnansc10Wn0K3TLwd5HcYnH61PjRk0Z7xIWYsQW0sg108njKxna3sn7tsQWDLg108Pj-xna31ndtsQW6Lg108rjIxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Y10Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YzrHbzrf&us=newvui&xst=mWYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwf715HDdPWRYrjD4PjcsPWbLnjTvPWT3g1czPNtz0gTqTZ-YpAq8cnL3s8x7sQ5h8OhYCf7k5gK4IA9EU67d5HcYnH61PjRk0gfqnHT3n1mLnH0zPs7VTHYs0W0aQf7Wpjdhmdqsms7_IHYs0yP85yF9pywd0gFY5H0KnHbsPH64Pjf3rf&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - generic [ref=f1e359]:
+                - generic [ref=f1e361]:
+                  - generic [ref=f1e362]: "海量教程:"
+                  - link "全站95000+视频教程，全站素材源文件,无限下载" [ref=f1e363] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWTBL140i6B5xutmeXROhb043z0sHGh84CbRTF7s8fYtE27hL31tN_wOFvtc09Fi4XyH0VDfJ16eeBZMDYal0Rla53oUAR6g4RPo94hpmiZY4LA1k6oXGV2tM7gufUd0fs5T327-u7p2U1Z6UkVyu-jLswHtIpEJbzl3VWXPUi6YrestQpztkVvGPMqFngTYMaVgEuDay0TuW.7R_NR2Ar5Od66JsIJIhkDZXPr-BqM76lqE0kgugb_oRojPakYvyuPz6.U1Y10ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq8FHcs1xWa4tg0_SpeSUi90A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn1D4P-tknjmkg1DsnH-xnW0dnNt1PW0k0AVG5HD0TMfqrHTd0AFG5HDdr7tznjf0Uynqn1D4P-tknjmkg1DsnH-xnW0dnNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW6dnWnkPW00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknHnvP1fdnjbYnj6kP16vnWcY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HcYnjDvnHFxn1m4P1m4r7tsg1Kxn0Ksmgwxuhk9u1Ys0AwWpyfqn1DYPHTzr0K-IA-b5iYk0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjD4njf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0s0AF9UhV9mvnqnansc10Wn0K3TLwd5HcYnH61PjRk0Z7xIWYsQW0sg108njKxna3sn7tsQWDLg108Pj-xna31ndtsQW6Lg108rjIxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Y10Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1Yznj0s&us=newvui&xst=mWYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwf715HDdPWRYrjD4PjcsPWbLnjTvPWT3g1czPNtz0gTqTZ-YpAq8cnL3s8x7sQ5h8OhYCf7k5gK4IA9EU67d5HcYnH61PjRk0gfqnHT3n1mLnH0zPs7VTHYs0W0aQf7Wpjdhmdqsms7_IHYs0yP85yF9pywd0gFY5H0KnHbsPH64Pjf3rf&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - generic [ref=f1e365]:
+                  - generic [ref=f1e366]: "免费学习:"
+                  - link "今日更新100个教程,每天可免费学习站内海量课程" [ref=f1e367] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWwowsgx0rNWPubbQdfKA7w4oqt6AyZGuA4_ijWdHGRBan7qjQxlOlLmbuF_2w2GENJecHd3RaLGMdVWdt3UuehoAsDZr6jhXZsMDxdcScqKl_Q-SoX6aYiBlYHXQJ_4x2MD6VETqDg8XoLJq41Jsp-xL6zZYChRun48p2gGrPit6Qf9kYlptt0R8dbadsB6q2tZvpuM1LEcM.Db_NR2Ar5Od66JsIJIhkDDQVrruPimCLOfhjIM_1vuenqhxFMo1dqrX8jEAMikX1BsIXL6mo_ozyNJN9h9mLXrOu_R0.U1Y10ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq8FHcs1xWa4tg0_SpeSUi90A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn1D4P-tknjmkg1DsnH-xnW0dnNt1PW0k0AVG5Hc0TMfqrHTd0AFG5HDdr7tznjf0Uynqn1D4P-tknjmkg1DsnH-xnW0dnNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW6dnWnkPW00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknHnvP1fdnjbYnj6kP16vnWcY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HcYnjDvnHFxn1m4P1m4r7tsg1Kxn0Ksmgwxuhk9u1Ys0AwWpyfqn1DYPHTzr0K-IA-b5iYk0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjD4njf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0s0AF9UhV9mvnqnansc10Wn0K3TLwd5HcYnH61PjRk0Z7xIWYsQW0sg108njKxna3sn7tsQWDLg108Pj-xna31ndtsQW6Lg108rjIxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Y10Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YkrHn1r0&us=newvui&xst=mWYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwf715HDdPWRYrjD4PjcsPWbLnjTvPWT3g1czPNtz0gTqTZ-YpAq8cnL3s8x7sQ5h8OhYCf7k5gK4IA9EU67d5HcYnH61PjRk0gfqnHT3n1mLnH0zPs7VTHYs0W0aQf7Wpjdhmdqsms7_IHYs0yP85yF9pywd0gFY5H0KnHbsPH64Pjf3rf&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - generic [ref=f1e369]:
+                  - generic [ref=f1e370]: "自学神器:"
+                  - link "200+职业软件教程,软件入门,影视动画办公软件等" [ref=f1e371] [cursor=pointer]:
+                    - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWX92BlknzoDKbdf3aKIJ7Ps_ROZ3sSCcX04rQnd97OD7lTGaVVxwKPd_9O8JMvkfJ5s8jhqkr0ERH38RzDo7E1zd78NIH8fypRVEehFcs8fhI6ad3_Gsg5EhEG9Coso2IvHeExd2FZfhiWd5esgxGSGrqNZahsjJAqZ1F278c4TMJHYkqADxafYDPj_N8dY1Zku43R3NDNWT.DR_NR2Ar5Od66JsIJIhkDDUVIj6uhH1ekGY_g_3_ZgV3A2e2t--p-muCyrMFEer260.U1Y10ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq8FHcs1xWa4tg0_SpeSUi90A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0Ugfqn1D4P-tknjmkg1DsnH-xnW0dnNt1PW0k0AVG5Hn0TMfqrHTd0AFG5HDdr7tznjf0Uynqn1D4P-tknjmkg1DsnH-xnW0dnNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW6dnWnkPW00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknHnvP1fdnjbYnj6kP16vnWcY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HcYnjDvnHFxn1m4P1m4r7tsg1Kxn0Ksmgwxuhk9u1Ys0AwWpyfqn1DYPHTzr0K-IA-b5iYk0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjD4njf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0s0AF9UhV9mvnqnansc10Wn0K3TLwd5HcYnH61PjRk0Z7xIWYsQW0sg108njKxna3sn7tsQWDLg108Pj-xna31ndtsQW6Lg108rjIxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Y10Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YdnjnYr0&us=newvui&xst=mWYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwf715HDdPWRYrjD4PjcsPWbLnjTvPWT3g1czPNtz0gTqTZ-YpAq8cnL3s8x7sQ5h8OhYCf7k5gK4IA9EU67d5HcYnH61PjRk0gfqnHT3n1mLnH0zPs7VTHYs0W0aQf7Wpjdhmdqsms7_IHYs0yP85yF9pywd0gFY5H0KnHbsPH64Pjf3rf&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - link "虎课网-专注AI职业教育 2026-07广告" [ref=f1e375] [cursor=pointer]:
+                - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWi0agxB-AVmGWin2eyBzP-4uww49hyzAX7iEaUi_8BtOM73P-DEzqLthb0F3jX1VUMylkS-mYWrSZdQvz5eKQxdOwpmsSEwvUACC9vW46QuGq9ZweXIdFkU7NdxhuLB8R_S327-CO9V_yukZ52MP-EFA2e0BFRaE01a-hxZFjFfi69e1TRMd-5n6Uir2fg0Ga6_QZiO_dvk2.DY_NR2Ar5Od66JsIJIhkDDpyuCpC5CkFILeRl5vLHRUhnXB9RlQj4SrZu_sSL3T5M_seqSZvSEyPr-BqM76lqE0kgkvUr5mGyAp7BEGvur26.U1Y10ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq8FHcs1xWa4tg0_SpeSUi90A-V5HczPfKM5gK1IZc0Iybqmh7GuZR0TA-b5HcL0APGujYzPjf0UgfqnH0vnNt1nHbvg1DsnH-xnW0dnNt1PW0k0AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0vnNt1nHbvg1DsnH-xnW0dnNts0Z7spyfqn0Kkmv-b5H00ThIYmyTqn0K8my-b5H00Uh7YTjYs0APdujYYnW6dnWnkPW00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uANv5gKW0AuY5H00TA6qn0KET1Ys0AFL5HDs0A4Y5H00TLCq0A71gv-bm1dsTzd-mvC0pywW5R420ZKCIZbq0Zw9ThI-IjY1nNt1nHwxnHDk0ZwdT1YknHnvP1fdnjbYnj6kP16vnWcY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7ts0Aw9UMNBuNqsUA78pyw15HnvrHTvrH9xnWfsnHmkn-tsg1Kxn0Ksmgwxuhk9u1Ys0AwWpyfqn1DYPHTzr0K-IA-b5iYk0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjD4njf0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5Hn0Uv7YI1Ys0AqY5H00ULFsIjYsc10Wc10Wnansc108nj0snj0sc10WwDuRc10WQinsQW0snj0snankQW0snj0snansc10Wna3snj0snj0Wnansc10Wnansc10WnansQW0s0AF9UhV9mvnqnansc10Wn0K3TLwd5HcYnH61PjRk0Z7xIWYsQW0sg108njKxna3sn7tsQWDLg108Pj-xna31ndtsQW6Lg108rjIxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Y10Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYs0ZKsPjYz0APzm1YzrHbzrf&us=newvui&xst=mWYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwf715HDdPWRYrjD4PjcsPWbLnjTvPWT3g1czPNtz0gTqTZ-YpAq8cnL3s8x7sQ5h8OhYCf7k5gK4IA9EU67d5HcYnH61PjRk0gfqnHT3n1mLnH0zPs7VTHYs0W0aQf7Wpjdhmdqsms7_IHYs0yP85yF9pywd0gFY5H0KnHbsPH64Pjf3rf&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - generic [ref=f1e376]: 虎课网-专注AI职业教育
+                - text: 2026-07
+                - generic [ref=f1e380]: 广告
+          - generic [ref=f1e387]:
+            - generic [ref=f1e388]:
+              - generic [ref=f1e397]:
+                - heading [level=2] [ref=f1e398]:
+                  - mark [ref=f1e399]: Python 编程语言
+                - paragraph [ref=f1e400]:
+                  - mark [ref=f1e401]:
+                    - text: ‌
+                    - strong [ref=f1e402]: Python 是一门由荷兰计算机科学家吉多·范罗苏姆在 1990 年代初创造的解释型编程语言
+                    - text: ‌
+                  - text: ，以语法简洁、易学易用著称，广泛应用于人工智能、数据分析、网站开发等领域 。‌‌
+                  - button "参考文档，单指双击即可执行" [ref=f1e1214]:
+                    - generic [ref=f1e1215]: 百科
+              - generic [ref=f1e407]:
+                - generic [ref=f1e410]:
+                  - generic [ref=f1e411]:
+                    - generic [ref=f1e412]:
+                      - generic [ref=f1e413]: 怎么读这个名字
+                      - text: 
+                    - list [ref=f1e424]:
+                      - listitem [ref=f1e425]:
+                        - mark [ref=f1e426]:
+                          - text: ‌
+                          - strong [ref=f1e427]: 英式发音
+                          - text: ‌
+                        - text: ：读作 [ˈpaɪθən]，"th"发轻音。
+                      - listitem [ref=f1e428]:
+                        - mark [ref=f1e429]:
+                          - text: ‌
+                          - strong [ref=f1e430]: 美式发音
+                          - text: ‌
+                        - text: ：读作 [ˈpaɪθɑːn]，结尾"on"音更饱满。
+                      - listitem [ref=f1e431]:
+                        - mark [ref=f1e432]:
+                          - text: ‌
+                          - strong [ref=f1e433]: 中文叫法
+                          - text: ‌
+                        - text: ：直接读"Python"或称"蟒蛇语言"，因吉祥物是蟒蛇而得名。‌‌‌
+                        - generic [ref=f1e1219]: 
+                  - generic [ref=f1e439]:
+                    - generic [ref=f1e440]:
+                      - generic [ref=f1e441]: 官网下载和安装步骤
+                      - text: 
+                    - list [ref=f1e452]:
+                      - listitem [ref=f1e453]:
+                        - mark [ref=f1e454]:
+                          - text: ‌
+                          - strong [ref=f1e455]: 访问官方网站
+                          - text: ‌
+                        - text: ：进入 Python 官网（
+                        - link "www.python.org" [ref=f1e456] [cursor=pointer]:
+                          - /url: https://www.python.org/
+                        - text: ）的 Downloads 栏目。
+                      - listitem [ref=f1e457]:
+                        - mark [ref=f1e458]:
+                          - text: ‌
+                          - strong [ref=f1e459]: 选择对应系统
+                          - text: ‌
+                        - text: ：根据电脑系统（Windows、MacOS、Linux）选择安装包，建议下载标注为"Stable"的稳定版本。
+                      - listitem [ref=f1e460]:
+                        - mark [ref=f1e461]:
+                          - text: ‌
+                          - strong [ref=f1e462]: 关键安装选项
+                          - text: ‌
+                        - text: ：安装时务必勾选"Add Python.exe to PATH"，这样后续在命令行可直接使用 python 命令。
+                      - listitem [ref=f1e463]:
+                        - mark [ref=f1e464]:
+                          - text: ‌
+                          - strong [ref=f1e465]: 验证安装成功
+                          - text: ‌
+                        - text: ：安装完成后打开命令行，输入
+                        - code [ref=f1e466]: python --version
+                        - text: ，显示版本号即表示安装成功。‌‌‌
+                        - generic [ref=f1e1225]: 
+                  - generic [ref=f1e472]:
+                    - generic [ref=f1e473]:
+                      - generic [ref=f1e474]: 学了能做什么
+                      - text: 
+                    - list [ref=f1e485]:
+                      - listitem [ref=f1e486]:
+                        - mark [ref=f1e487]:
+                          - text: ‌
+                          - strong [ref=f1e488]: 人工智能和机器学习
+                          - text: ‌
+                        - text: ：调用 TensorFlow、PyTorch 等框架开发智能系统，哈佛大学 CS50 等课程专门开设 Python 人工智能方向。
+                      - listitem [ref=f1e489]:
+                        - mark [ref=f1e490]:
+                          - text: ‌
+                          - strong [ref=f1e491]: 数据分析和可视化
+                          - text: ‌
+                        - text: ：使用 pandas、matplotlib 等库处理数据、制作图表，是数据分析师的首选工具。
+                      - listitem [ref=f1e492]:
+                        - mark [ref=f1e493]:
+                          - text: ‌
+                          - strong [ref=f1e494]: 网站开发
+                          - text: ‌
+                        - text: ：通过 Django、Flask 等框架快速搭建网站，知乎、豆瓣等国内平台均有使用。
+                      - listitem [ref=f1e495]:
+                        - mark [ref=f1e496]:
+                          - text: ‌
+                          - strong [ref=f1e497]: 网络爬虫
+                          - text: ‌
+                        - text: ：利用 Requests、Scrapy 等库自动采集网页数据，用于信息收集和数据处理。
+                      - listitem [ref=f1e498]:
+                        - mark [ref=f1e499]:
+                          - text: ‌
+                          - strong [ref=f1e500]: 自动化办公
+                          - text: ‌
+                        - text: ：批量处理 Excel、PDF 文件，自动发送邮件、操作微信等日常任务。
+                      - listitem [ref=f1e501]:
+                        - mark [ref=f1e502]:
+                          - text: ‌
+                          - strong [ref=f1e503]: 游戏和图形开发
+                          - text: ‌
+                        - text: ：使用 PyGame 制作 2D 游戏，PyOpenGL 进行二维三维图像处理。‌‌
+                        - button "参考文档，单指双击即可执行" [ref=f1e1231]:
+                          - generic [ref=f1e1232]: 百科
+                        - text: ‌
+                        - generic [ref=f1e1236]: 
+                - generic [ref=f1e513]:
+                  - generic [ref=f1e515]: 还有其他想了解的？继续向我提问，帮你进一步分析~
+                  - button "继续追问" [ref=f1e516]
+            - generic [ref=f1e525] [cursor=pointer]:
+              - generic [ref=f1e526]: 展开剩余67%内容
+              - generic [ref=f1e527]: 
+            - generic [ref=f1e528]:
+              - generic [ref=f1e529]: AI总结32篇结果生成
+              - generic [ref=f1e530]:
+                - generic [ref=f1e534] [cursor=pointer]:
+                  - generic [ref=f1e535]: 
+                  - generic [ref=f1e539]: 
+                  - generic [ref=f1e543]:
+                    - generic [ref=f1e544]: 
+                    - generic [ref=f1e550]:
+                      - generic [ref=f1e551]: python
+                      - generic [ref=f1e556]:
+                        - generic [ref=f1e557]: 长按识别，即刻体验百度AI
+                        - generic [ref=f1e558]: 以上内容均由AI生成
+                  - generic [ref=f1e560]: 
+                - generic [ref=f1e566]:
+                  - generic [ref=f1e567]: 
+                  - img "true" [ref=f1e568]
+          - generic [ref=f1e572]:
+            - generic [ref=f1e574]:
+              - link "官方" [ref=f1e576] [cursor=pointer]:
+                - /url: https://aiqicha.baidu.com/feedback/official?from=baidu&type=gw
+              - heading [level=3] [ref=f1e578]:
+                - link [ref=f1e579] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=0cwRXoR75dOxqkIMJlWZe8GVkVjokGefxwdijjYObassUukN0ECK6fgRtAZnAlix
+                  - generic [ref=f1e581]:
+                    - text: Welcome to
+                    - emphasis [ref=f1e582]: Python
+                    - text: .org
+            - generic [ref=f1e583]:
+              - link [ref=f1e585] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=0cwRXoR75dOxqkIMJlWZe8GVkVjokGefxwdijjYObassUukN0ECK6fgRtAZnAlix
+              - generic [ref=f1e590]:
+                - generic [ref=f1e591]:
+                  - generic [ref=f1e592]:
+                    - generic [ref=f1e593] [cursor=pointer]: 查看此网页的中文翻译，请点击
+                    - link "翻译此页" [ref=f1e594] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=4dbhDkMu1nIWCaWt4iiQOJH5TwwTRbLosge9GuM_WmcmdCee4BMsTvBDTFtZlMKwPxKTFTeuLvizYFxNJLQ7QeAs6t6d37b4yymezx4_O4layPOmlNSKAeuBKDWCfbtN73mY4qUoGow9T_jf12gf2NuqK8hY9EiKIIrdaNTN7_i
+                  - generic [ref=f1e601] [cursor=pointer]:
+                    - emphasis [ref=f1e602]: Python
+                    - text: "source code and installers are available for download for all versions! Latest: Python 3.14.6 docs."
+                    - emphasis [ref=f1e603]: python
+                    - text: ".org relaunched community-run job board 2026- 07-09 The PSF D&I Workgroup Are Starting Office Hours in July! 2026- 07-09 PSF News: Security, Elections, and PyCon US 2026 🌴..."
+                - link "Python官网" [ref=f1e608] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=0cwRXoR75dOxqkIMJlWZe8GVkVjokGefxwdijjYObassUukN0ECK6fgRtAZnAlix
+                  - generic [ref=f1e610]: 
+          - generic [ref=f1e616]:
+            - heading [level=3] [ref=f1e620]:
+              - link "python一键生成代码-立即使用" [ref=f1e622] [cursor=pointer]:
+                - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWwUhHC8Vv0_sSaC-CPohp_nqqaS3cq5XTyr6UTS9XLpkLjOt20uuZ-RK4cmf2T0_bk9hE96HTI7KFMy7CyLeY_lOr3_y7NGyp9cLdmWvAAW9E6dxo51AjkK3sfUSEOsrgBaKCv0mYu082n6e7NJI3n2QHZgch7xjZT6Z_qxl0vF_wjqZelVmXN8DUeMyYgcy1XmXxHnVaFBL.DR_NR2Ar5Od66EtEmqhQ6HDBKMZWW6qMUReiMA1JHzYrKvVvjyhSauva6hraW8OvpZwv1NI5InNaUfkW9qM0hQOOkWHG4Ue8N-tQoM48gw-E8WHGksS16o4plS_PHArZvTamEOOAPrM-E84ygs88xh4IAySlPrMZjeraE-oolEY_lb_nE9ITOPd8k_ITI7hQDkg_zTTMWgklILgKDS9Bmo3ePhi1F_tXMxdu4XdrW6IPIBmoer1u8zTX1F34r1Fdu4mub_YZOf-BE_erMW3vyUtheFdu4IQPaAJ9CkGmzIyXy4vp6zqB1J1zqJIZ0lp4WZCCNrBsSxu9qIhZuu9tqSZxvmxU43x5kseS1jES8Z1lTr1u9Lvmx5_sSEo9qEZj4SrZvvmI-xNMDk_otIh1F_LIIT1VQ7qYpI2-muCyPd-xHYJ0.U1Yk0ZDqTZ-YpAq80ZKGm1Yk0ZK1pyI85yuBrAnLnyndPWmkPW99mWu9nj6dn1DvP1cLnywWnhPW0ZfqTZ-YpAq8Yo8tOnMl_thYS_Qo0A-V5HDYPWD0u1dsTLwz0ZNG5yF9pywd0ZKGujYzPsKWpyfqnWfY0AdY5HDsnHIxnW0vn-tznjRkg1DsnH-xn1msnNt4nHT30AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0kPdtznjmzg1csPH7xnH0krNtsg1bkP160TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1QyNWp6KGuAnqHbC0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HD3PjcdnWbsnjTvrjnsPH61PWRY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn7tsg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HmdPHnvn6K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjn1njc0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5HD0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WPanzc1n4rjcYPWfzPHbWn1nsnBnzrHTzQW0snj0snan1c1cWnanVc108njn4PHRkc1D8nj0snj0sc1DWnansQW0snj0snansc10Wnansc1DWnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW03g108njKxna3sn7tsQWm4g108nH9xna3sPNtsQWfYg108Pjwxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPH790Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1Y1nWTsP6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+            - generic [ref=f1e623]:
+              - link [ref=f1e626] [cursor=pointer]:
+                - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWwUhHC8Vv0_sSaC-CPohp_nqqaS3cq5XTyr6UTS9XLpkLjOt20uuZ-RK4cmf2T0_bk9hE96HTI7KFMy7CyLeY_lOr3_y7NGyp9cLdmWvAAW9E6dxo51AjkK3sfUSEOsrgBaKCv0mYu082n6e7NJI3n2QHZgch7xjZT6Z_qxl0vF_wjqZelVmXN8DUeMyYgcy1XmXxHnVaFBL.DR_NR2Ar5Od66EtEmqhQ6HDBKMZWW6qMUReiMA1JHzYrKvVvjyhSauva6hraW8OvpZwv1NI5InNaUfkW9qM0hQOOkWHG4Ue8N-tQoM48gw-E8WHGksS16o4plS_PHArZvTamEOOAPrM-E84ygs88xh4IAySlPrMZjeraE-oolEY_lb_nE9ITOPd8k_ITI7hQDkg_zTTMWgklILgKDS9Bmo3ePhi1F_tXMxdu4XdrW6IPIBmoer1u8zTX1F34r1Fdu4mub_YZOf-BE_erMW3vyUtheFdu4IQPaAJ9CkGmzIyXy4vp6zqB1J1zqJIZ0lp4WZCCNrBsSxu9qIhZuu9tqSZxvmxU43x5kseS1jES8Z1lTr1u9Lvmx5_sSEo9qEZj4SrZvvmI-xNMDk_otIh1F_LIIT1VQ7qYpI2-muCyPd-xHYJ0.U1Yk0ZDqTZ-YpAq80ZKGm1Yk0ZK1pyI85yuBrAnLnyndPWmkPW99mWu9nj6dn1DvP1cLnywWnhPW0ZfqTZ-YpAq8Yo8tOnMl_thYS_Qo0A-V5HDYPWD0u1dsTLwz0ZNG5yF9pywd0ZKGujYzPsKWpyfqnWfY0AdY5HDsnHIxnW0vn-tznjRkg1DsnH-xn1msnNt4nHT30AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0kPdtznjmzg1csPH7xnH0krNtsg1bkP160TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1QyNWp6KGuAnqHbC0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HD3PjcdnWbsnjTvrjnsPH61PWRY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn7tsg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HmdPHnvn6K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjn1njc0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5HD0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WPanzc1n4rjcYPWfzPHbWn1nsnBnzrHTzQW0snj0snan1c1cWnanVc108njn4PHRkc1D8nj0snj0sc1DWnansQW0snj0snansc10Wnansc1DWnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW03g108njKxna3sn7tsQWm4g108nH9xna3sPNtsQWfYg108Pjwxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPH790Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1Y1nWTsP6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - generic [ref=f1e628]:
+                - link "最近14分钟前有人下载" [ref=f1e631] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWwUhHC8Vv0_sSaC-CPohp_nqqaS3cq5XTyr6UTS9XLpkLjOt20uuZ-RK4cmf2T0_bk9hE96HTI7KFMy7CyLeY_lOr3_y7NGyp9cLdmWvAAW9E6dxo51AjkK3sfUSEOsrgBaKCv0mYu082n6e7NJI3n2QHZgch7xjZT6Z_qxl0vF_wjqZelVmXN8DUeMyYgcy1XmXxHnVaFBL.DR_NR2Ar5Od66EtEmqhQ6HDBKMZWW6qMUReiMA1JHzYrKvVvjyhSauva6hraW8OvpZwv1NI5InNaUfkW9qM0hQOOkWHG4Ue8N-tQoM48gw-E8WHGksS16o4plS_PHArZvTamEOOAPrM-E84ygs88xh4IAySlPrMZjeraE-oolEY_lb_nE9ITOPd8k_ITI7hQDkg_zTTMWgklILgKDS9Bmo3ePhi1F_tXMxdu4XdrW6IPIBmoer1u8zTX1F34r1Fdu4mub_YZOf-BE_erMW3vyUtheFdu4IQPaAJ9CkGmzIyXy4vp6zqB1J1zqJIZ0lp4WZCCNrBsSxu9qIhZuu9tqSZxvmxU43x5kseS1jES8Z1lTr1u9Lvmx5_sSEo9qEZj4SrZvvmI-xNMDk_otIh1F_LIIT1VQ7qYpI2-muCyPd-xHYJ0.U1Yk0ZDqTZ-YpAq80ZKGm1Yk0ZK1pyI85yuBrAnLnyndPWmkPW99mWu9nj6dn1DvP1cLnywWnhPW0ZfqTZ-YpAq8Yo8tOnMl_thYS_Qo0A-V5HDYPWD0u1dsTLwz0ZNG5yF9pywd0ZKGujYzPsKWpyfqnWfY0AdY5HDsnHIxnW0vn-tznjRkg1DsnH-xn1msnNt4nHT30AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0kPdtznjmzg1csPH7xnH0krNtsg1bkP160TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1QyNWp6KGuAnqHbC0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HD3PjcdnWbsnjTvrjnsPH61PWRY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn7tsg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HmdPHnvn6K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjn1njc0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5HD0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WPanzc1n4rjcYPWfzPHbWn1nsnBnzrHTzQW0snj0snan1c1cWnanVc108njn4PHRkc1D8nj0snj0sc1DWnansQW0snj0snansc10Wnansc1DWnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW03g108njKxna3sn7tsQWm4g108nH9xna3sPNtsQWfYg108Pjwxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPH790Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1Y1nWTsP6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link [ref=f1e635] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWwUhHC8Vv0_sSaC-CPohp_nqqaS3cq5XTyr6UTS9XLpkLjOt20uuZ-RK4cmf2T0_bk9hE96HTI7KFMy7CyLeY_lOr3_y7NGyp9cLdmWvAAW9E6dxo51AjkK3sfUSEOsrgBaKCv0mYu082n6e7NJI3n2QHZgch7xjZT6Z_qxl0vF_wjqZelVmXN8DUeMyYgcy1XmXxHnVaFBL.DR_NR2Ar5Od66EtEmqhQ6HDBKMZWW6qMUReiMA1JHzYrKvVvjyhSauva6hraW8OvpZwv1NI5InNaUfkW9qM0hQOOkWHG4Ue8N-tQoM48gw-E8WHGksS16o4plS_PHArZvTamEOOAPrM-E84ygs88xh4IAySlPrMZjeraE-oolEY_lb_nE9ITOPd8k_ITI7hQDkg_zTTMWgklILgKDS9Bmo3ePhi1F_tXMxdu4XdrW6IPIBmoer1u8zTX1F34r1Fdu4mub_YZOf-BE_erMW3vyUtheFdu4IQPaAJ9CkGmzIyXy4vp6zqB1J1zqJIZ0lp4WZCCNrBsSxu9qIhZuu9tqSZxvmxU43x5kseS1jES8Z1lTr1u9Lvmx5_sSEo9qEZj4SrZvvmI-xNMDk_otIh1F_LIIT1VQ7qYpI2-muCyPd-xHYJ0.U1Yk0ZDqTZ-YpAq80ZKGm1Yk0ZK1pyI85yuBrAnLnyndPWmkPW99mWu9nj6dn1DvP1cLnywWnhPW0ZfqTZ-YpAq8Yo8tOnMl_thYS_Qo0A-V5HDYPWD0u1dsTLwz0ZNG5yF9pywd0ZKGujYzPsKWpyfqnWfY0AdY5HDsnHIxnW0vn-tznjRkg1DsnH-xn1msnNt4nHT30AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0kPdtznjmzg1csPH7xnH0krNtsg1bkP160TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1QyNWp6KGuAnqHbC0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HD3PjcdnWbsnjTvrjnsPH61PWRY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn7tsg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HmdPHnvn6K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjn1njc0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5HD0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WPanzc1n4rjcYPWfzPHbWn1nsnBnzrHTzQW0snj0snan1c1cWnanVc108njn4PHRkc1D8nj0snj0sc1DWnansQW0snj0snansc10Wnansc1DWnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW03g108njKxna3sn7tsQWm4g108nH9xna3sPNtsQWfYg108Pjwxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPH790Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1Y1nWTsP6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "千问 2026-07  广告" [ref=f1e641] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWwUhHC8Vv0_sSaC-CPohp_nqqaS3cq5XTyr6UTS9XLpkLjOt20uuZ-RK4cmf2T0_bk9hE96HTI7KFMy7CyLeY_lOr3_y7NGyp9cLdmWvAAW9E6dxo51AjkK3sfUSEOsrgBaKCv0mYu082n6e7NJI3n2QHZgch7xjZT6Z_qxl0vF_wjqZelVmXN8DUeMyYgcy1XmXxHnVaFBL.DR_NR2Ar5Od66EtEmqhQ6HDBKMZWW6qMUReiMA1JHzYrKvVvjyhSauva6hraW8OvpZwv1NI5InNaUfkW9qM0hQOOkWHG4Ue8N-tQoM48gw-E8WHGksS16o4plS_PHArZvTamEOOAPrM-E84ygs88xh4IAySlPrMZjeraE-oolEY_lb_nE9ITOPd8k_ITI7hQDkg_zTTMWgklILgKDS9Bmo3ePhi1F_tXMxdu4XdrW6IPIBmoer1u8zTX1F34r1Fdu4mub_YZOf-BE_erMW3vyUtheFdu4IQPaAJ9CkGmzIyXy4vp6zqB1J1zqJIZ0lp4WZCCNrBsSxu9qIhZuu9tqSZxvmxU43x5kseS1jES8Z1lTr1u9Lvmx5_sSEo9qEZj4SrZvvmI-xNMDk_otIh1F_LIIT1VQ7qYpI2-muCyPd-xHYJ0.U1Yk0ZDqTZ-YpAq80ZKGm1Yk0ZK1pyI85yuBrAnLnyndPWmkPW99mWu9nj6dn1DvP1cLnywWnhPW0ZfqTZ-YpAq8Yo8tOnMl_thYS_Qo0A-V5HDYPWD0u1dsTLwz0ZNG5yF9pywd0ZKGujYzPsKWpyfqnWfY0AdY5HDsnHIxnW0vn-tznjRkg1DsnH-xn1msnNt4nHT30AVG5H00TMfqrHTd0AFG5HDdr7tznjf0UynqnH0kPdtznjmzg1csPH7xnH0krNtsg1bkP160TgKGujYs0Z7Wpyfqn0KzuLw9u1Ys0A49pyfqn0K8mgws5H00mLNb5HfzrHDsP1DdPsK9mWYsg100ugFM5H00TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1QyNWp6KGuAnqHbC0TA9YXHY0IA7zuvNY5Hnkg1nkP7tknHD0IZN15HD3PjcdnWbsnjTvrjnsPH61PWRY0ZF-TgfqnHT3n1mLnH0zP10vnfKGm1Ys0ZPGujdbrHfknHTdnW0krjbznvnv0AP1UHYvrj-Dnjf1fHmvnHRdfYnz0AkBT1Ys0A7W5HD0TA3qn0KkUgfqn0KkUgnqn0KlIjYs0AFvujYs0AIsIjYk0AI9IjYk0AdWgvuzUvYqn7tsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn7tsg1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HmdPHnvn6K-IA-b5HmY0A71TAPW5H00IgKGUhPW5H00Tydh5H00uhPdIjYs0A-1mvsqn0K9uAu_myTqnfK_uhnqn0KbmvPb5fKYTh7buHYznjn1njc0mhwGujYYf177PRPDwj0dP1-DPRPKPjDdPYFjwRn4PWK7rDcvwfKEm1Yk0AFY5HD0Uv7YI1Ys0AqY5HD0ULFsIjYzc10WPanzc1n4rjcYPWfzPHbWn1nsnBnzrHTzQW0snj0snan1c1cWnanVc108njn4PHRkc1D8nj0snj0sc1DWnansQW0snj0snansc10Wnansc1DWnansc108nj00mh78pv7Wm1Ysc10Wnans0Z7xIWYsQW03g108njKxna3sn7tsQWm4g108nH9xna3sPNtsQWfYg108Pjwxn7tsg100mMPxTZFEuA-b5H00ThqGuhk9u1Ys0ZKzTvRqPH790Ad-IjYs0AP-IA7M5Hc0mLmq0A-1gvPsmHYs0APs5H00ugPY5H00TyILujYs0AqsnHYznj60TZ0Y5HDs0APzm1Y1nWTsP6&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - generic [ref=f1e642]: 千问
+                  - text: 2026-07
+                  - generic [ref=f1e646]: 
+                  - generic [ref=f1e649]: 广告
+          - generic [ref=f1e653]:
+            - heading [level=3] [ref=f1e654]:
+              - link [ref=f1e655] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=D5eOiLPfQdd47JmYbrjTdfedUSQJVzG2uZLMV_bTJsIV_SoGiR9aW6-6AveXZQkWjJxSBrWTtFZl8MXlzEeuca
+                - paragraph [ref=f1e658]:
+                  - generic [ref=f1e660]:
+                    - emphasis [ref=f1e661]: Python
+                    - text: "- 百度百科"
+            - generic [ref=f1e665]:
+              - link [ref=f1e667] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=D5eOiLPfQdd47JmYbrjTdfedUSQJVzG2uZLMV_bTJsIV_SoGiR9aW6-6AveXZQkWjJxSBrWTtFZl8MXlzEeuca
+              - generic [ref=f1e670]:
+                - paragraph [ref=f1e674]:
+                  - generic [ref=f1e676]:
+                    - emphasis [ref=f1e677]: Python
+                    - text: 由荷兰国家数学与计算机科学研究中心的吉多·范罗苏姆于1990年代初设计，作为ABC语言的替代品，是一种解释型脚本语言。Guido van Rossum在1995年于国家创新研究公司（CNRI）继续他在
+                    - emphasis [ref=f1e678]: Python
+                    - text: 上的工作，2001年
+                    - emphasis [ref=f1e679]: Python
+                    - text: 软件基金会（PSF）成立。它提供高效的数据结构、动态类型...
+                  - generic [ref=f1e681]:
+                    - link "详情" [ref=f1e682] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=D5eOiLPfQdd47JmYbrjTdfedUSQJVzG2uZLMV_bTJsIV_SoGiR9aW6-6AveXZQkWjJxSBrWTtFZl8MXlzEeuca
+                    - link "" [ref=f1e683] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=D5eOiLPfQdd47JmYbrjTdfedUSQJVzG2uZLMV_bTJsIV_SoGiR9aW6-6AveXZQkWjJxSBrWTtFZl8MXlzEeuca
+                - generic [ref=f1e687]:
+                  - link "应用领域" [ref=f1e689] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=FbdtaM7d3y1D4DrCzd8Fr3ld0-EIg-brEXtMVnJaFmZNoFwKbPcmtznR8dEVIas_puU98qFAW82SxkmYbK4sGa
+                  - link "发展历程" [ref=f1e692] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=FbdtaM7d3y1D4DrCzd8Fr3ld0-EIg-brEXtMVnJaFmZNoFwKbPcmtznR8dEVIas_xa8pHyBbEW4p2VELixt5_a
+                  - link "语言特点" [ref=f1e695] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=FbdtaM7d3y1D4DrCzd8Fr3ld0-EIg-brEXtMVnJaFmZNoFwKbPcmtznR8dEVIas_DYW3FldFnwwSp2lEsShGf_
+                  - link "基本语法" [ref=f1e698] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=FbdtaM7d3y1D4DrCzd8Fr3ld0-EIg-brEXtMVnJaFmZNoFwKbPcmtznR8dEVIas_NOaHEwmDLzVOtopcJvJ8pq
+            - generic [ref=f1e700]:
+              - link "百度百科" [ref=f1e703] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=D5eOiLPfQdd47JmYbrjTdfedUSQJVzG2uZLMV_bTJsIV_SoGiR9aW6-6AveXZQkWjJxSBrWTtFZl8MXlzEeuca
+              - generic [ref=f1e705] [cursor=pointer]: 
+          - generic [ref=f1e711]:
+            - heading [level=3] [ref=f1e714]:
+              - heading [level=3] [ref=f1e717]:
+                - link [ref=f1e718] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=C1jT8M_dZ3ToHQlactLj2K0F_ukJQj3E-c4bx9IFIzBqD-FilhLYzKlu25HoC9pD7BFYx22TcjqvLRXq2FQtAK
+                  - generic [ref=f1e719]:
+                    - emphasis [ref=f1e720]: python
+                    - text: "- 百度翻译"
+            - generic [ref=f1e723]:
+              - generic [ref=f1e724]: 蟒蛇
+              - generic [ref=f1e725]: 常见释义
+            - generic [ref=f1e728]:
+              - generic [ref=f1e729]: 英[ˈpaɪθən]
+              - generic [ref=f1e748]: 美[ˈpaɪθɑːn]
+            - generic [ref=f1e771]:
+              - generic [ref=f1e772]: n.
+              - generic [ref=f1e773]: 蟒蛇;蟒;蚺蛇;（Python）一种计算机编程语言;
+            - generic [ref=f1e775]:
+              - generic [ref=f1e776]: 例句
+              - generic [ref=f1e777]:
+                - generic [ref=f1e778]:
+                  - generic [ref=f1e779]: The news reported that a Python devours a family cat.
+                  - generic [ref=f1e789]: 新闻报道说，一条蟒蛇吞噬了一只家庭宠物猫。
+                - link "" [ref=f1e791] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=xotE7FE5phSd7WjA1ANU8RDDXBfYInZq9qnRwBHV9PPdrtxYqjr3sVBw4186Gdb7XvsWLD_B9igvvaRuLX-7ggaZBhVpjAf85IgPP7s_v9K
+            - generic [ref=f1e793]:
+              - generic [ref=f1e794]: 变形
+              - generic [ref=f1e796]:
+                - generic [ref=f1e797]: 复数
+                - generic [ref=f1e799]:
+                  - link "pythons" [ref=f1e800] [cursor=pointer]:
+                    - /url: /s?rsv_idx=1&wd=pythons%E7%BF%BB%E8%AF%91&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=b3629rhJhBJOvs8u7I%2Bu%2BujbjXF7tOnux0krLgPeJJQLszvsXgHf1LfPZKo&sa=re_fy_huisou
+                  - generic [ref=f1e801]: 
+            - generic [ref=f1e803]:
+              - generic [ref=f1e804]: 精彩视频
+              - link "Python-单词讲解（发音 意思 例句与用法 场景）" [ref=f1e810] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=hZdPrR1Ajh7SEI_7J0uGyXMHA41S6cjHHWYN_eGCIjH0qCxAbyH6hLjNwAZ3zNnblEttA2yXypiKRRn44myQZDXRVNdeO6I9MO1HtuMmL8m
+          - generic [ref=f1e820]:
+            - heading [level=3] [ref=f1e824]:
+              - link "CodeBuddy IDE-腾讯代码助手-AI一站式工作台" [ref=f1e826] [cursor=pointer]:
+                - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWmuFw91Xy34zpkJJ7hjXEMv3hw425tk4kQYiuUNkI3JDbxQv3YQvjnkVcrCnGi4f_eOhJvDBoyoFi6iublRewvwqI6BhjL00rsWeQ6wiRqpFygW0uvBhSzB1RsyGr_OiDjj13vaYKMSjEhe8jXh1_AMLnHAvJ5rULCWwhWTtbGPG8R4sc80yuJRykDYhsSqhw_5pJHGF7Cam.DY_NR2Ar5Od663rj6tCggFEsggprijDhjEohIGO7vap7QAo63mXjzoo_tTheG_tJle5ZF8lU52881kzU8h1o6CpXgih4SjikjW9l32AM-knp8j99352881kzU8h1zoo_tTheG_tJle5ZF8lU72s1f_Nqr1xmC0.U1Yk0ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq80A-V5HDdn1f0u1dsTLwz0ZNG5yF9pywd0ZKGujYzPsKWpyfqnWfY0AdY5HnznW9xnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HnznW9xnH0kPdtznjRkg1DsnH-xn0KkTA-b5H00TyPGujYs0ZFMIA7M5H00Uh7GujYs0A49IZ0qn0KWIyfqnW0snj0YPHmzP6K9mWYsg100ugFM5Hc0TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1QyNWp6KGuAnqHbC0TA9YXHY0IA7zuvNY5Hm1g1KxnH0sn0KYIgnqnHnYPj6vnjcdn1RsnHTdnj6knHm0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1cYnHmYPH04g1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW01n10z0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0UvnqnfKBIjYs0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3sn0KBmy4omyPW5H0Wnansc100TNqv5H08nHKxna3sn7tsQW0sg108P1-xna3srNtsQW0zg108n1Ixna31Pdtsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqn6KWIWY0pgPxmLK95H00mL0qn0K-TLfqn0KkuLIb5H00UL0k5H00TZ0Y5Hc0mLFW5Hfvn1Tv&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+            - generic [ref=f1e827]:
+              - link [ref=f1e830] [cursor=pointer]:
+                - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWmuFw91Xy34zpkJJ7hjXEMv3hw425tk4kQYiuUNkI3JDbxQv3YQvjnkVcrCnGi4f_eOhJvDBoyoFi6iublRewvwqI6BhjL00rsWeQ6wiRqpFygW0uvBhSzB1RsyGr_OiDjj13vaYKMSjEhe8jXh1_AMLnHAvJ5rULCWwhWTtbGPG8R4sc80yuJRykDYhsSqhw_5pJHGF7Cam.DY_NR2Ar5Od663rj6tCggFEsggprijDhjEohIGO7vap7QAo63mXjzoo_tTheG_tJle5ZF8lU52881kzU8h1o6CpXgih4SjikjW9l32AM-knp8j99352881kzU8h1zoo_tTheG_tJle5ZF8lU72s1f_Nqr1xmC0.U1Yk0ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq80A-V5HDdn1f0u1dsTLwz0ZNG5yF9pywd0ZKGujYzPsKWpyfqnWfY0AdY5HnznW9xnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HnznW9xnH0kPdtznjRkg1DsnH-xn0KkTA-b5H00TyPGujYs0ZFMIA7M5H00Uh7GujYs0A49IZ0qn0KWIyfqnW0snj0YPHmzP6K9mWYsg100ugFM5Hc0TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1QyNWp6KGuAnqHbC0TA9YXHY0IA7zuvNY5Hm1g1KxnH0sn0KYIgnqnHnYPj6vnjcdn1RsnHTdnj6knHm0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1cYnHmYPH04g1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW01n10z0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0UvnqnfKBIjYs0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3sn0KBmy4omyPW5H0Wnansc100TNqv5H08nHKxna3sn7tsQW0sg108P1-xna3srNtsQW0zg108n1Ixna31Pdtsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqn6KWIWY0pgPxmLK95H00mL0qn0K-TLfqn0KkuLIb5H00UL0k5H00TZ0Y5Hc0mLFW5Hfvn1Tv&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+              - generic [ref=f1e832]:
+                - link [ref=f1e835] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWmuFw91Xy34zpkJJ7hjXEMv3hw425tk4kQYiuUNkI3JDbxQv3YQvjnkVcrCnGi4f_eOhJvDBoyoFi6iublRewvwqI6BhjL00rsWeQ6wiRqpFygW0uvBhSzB1RsyGr_OiDjj13vaYKMSjEhe8jXh1_AMLnHAvJ5rULCWwhWTtbGPG8R4sc80yuJRykDYhsSqhw_5pJHGF7Cam.DY_NR2Ar5Od663rj6tCggFEsggprijDhjEohIGO7vap7QAo63mXjzoo_tTheG_tJle5ZF8lU52881kzU8h1o6CpXgih4SjikjW9l32AM-knp8j99352881kzU8h1zoo_tTheG_tJle5ZF8lU72s1f_Nqr1xmC0.U1Yk0ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq80A-V5HDdn1f0u1dsTLwz0ZNG5yF9pywd0ZKGujYzPsKWpyfqnWfY0AdY5HnznW9xnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HnznW9xnH0kPdtznjRkg1DsnH-xn0KkTA-b5H00TyPGujYs0ZFMIA7M5H00Uh7GujYs0A49IZ0qn0KWIyfqnW0snj0YPHmzP6K9mWYsg100ugFM5Hc0TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1QyNWp6KGuAnqHbC0TA9YXHY0IA7zuvNY5Hm1g1KxnH0sn0KYIgnqnHnYPj6vnjcdn1RsnHTdnj6knHm0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1cYnHmYPH04g1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW01n10z0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0UvnqnfKBIjYs0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3sn0KBmy4omyPW5H0Wnansc100TNqv5H08nHKxna3sn7tsQW0sg108P1-xna3srNtsQW0zg108n1Ixna31Pdtsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqn6KWIWY0pgPxmLK95H00mL0qn0K-TLfqn0KkuLIb5H00UL0k5H00TZ0Y5Hc0mLFW5Hfvn1Tv&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                - link "WorkBuddy 2026-07  广告" [ref=f1e841] [cursor=pointer]:
+                  - /url: https://www.baidu.com/baidu.php?url=000000j0xnZgmfstWmuFw91Xy34zpkJJ7hjXEMv3hw425tk4kQYiuUNkI3JDbxQv3YQvjnkVcrCnGi4f_eOhJvDBoyoFi6iublRewvwqI6BhjL00rsWeQ6wiRqpFygW0uvBhSzB1RsyGr_OiDjj13vaYKMSjEhe8jXh1_AMLnHAvJ5rULCWwhWTtbGPG8R4sc80yuJRykDYhsSqhw_5pJHGF7Cam.DY_NR2Ar5Od663rj6tCggFEsggprijDhjEohIGO7vap7QAo63mXjzoo_tTheG_tJle5ZF8lU52881kzU8h1o6CpXgih4SjikjW9l32AM-knp8j99352881kzU8h1zoo_tTheG_tJle5ZF8lU72s1f_Nqr1xmC0.U1Yk0ZDqTZ-YpAq80ZKGm1Yk0ZfqTZ-YpAq80A-V5HDdn1f0u1dsTLwz0ZNG5yF9pywd0ZKGujYzPsKWpyfqnWfY0AdY5HnznW9xnH0kPdtznjRkg1DsnH-xn1msnfKopHYs0ZFY5HbLPfKBpHYkPH9xnW0Y0AdW5HnznW9xnH0kPdtznjRkg1DsnH-xn0KkTA-b5H00TyPGujYs0ZFMIA7M5H00Uh7GujYs0A49IZ0qn0KWIyfqnW0snj0YPHmzP6K9mWYsg100ugFM5Hc0TZ0qn0K8IM0qna3snj0snj0sn0KVIZ0qn0KbuAqs5H00ThCqn0KbugmqTAn0uMfqn0KspjYs0Aq15H00mMTqnH00UMfqn0K1XWY0mgPxpywW5gK1QyNWp6KGuAnqHbC0TA9YXHY0IA7zuvNY5Hm1g1KxnH0sn0KYIgnqnHnYPj6vnjcdn1RsnHTdnj6knHm0ThNkIjYkP161PWTknjcLnjmk0A-W5H00Tv-b5yf4PjDkP1RznjD3rHc1m1m0mLPV5Hm3rRfsPjPKPWmkPHNjf1c0UAF15H00mynqnfKsUWYs0Z7VIjYs0Z7VT1Ys0ZGY5H00mMub5H00uLKY5HD0uv7Y5HD0UyPxuMFEUHYsg1Kxn7tsg100uA78IyF-gLK_my4GuZnqn1cYnHmYPH04g1Kxn7tsg100TA7Ygvu_myTqn0Kbmv-b5HnkPjRLnW60ugwGujYVnfK9TLKWm1Ys0ZNspy4Wm1Ys0Z7VuWYs0AuWIgfqn0KGTvP_5H00mywhUA7M5HD0UAuW5H00uAPWujY0IZF9uARqnW01n10z0AFbpyfqPDnkwHNjwDfsPHT4wjNjfHfkPHIafYNjrHmswH9aPbR0UvnqnfKBIjYs0Aq9IZTqn0KEIjYs0AqzTZfqnanscznsc10WnansQW0snj0snanscYwANansczYWna3snj0snj0Wni3snj0snj0Wnansc108nj0snj0sc10Wnansc10Wnansc10Wna3sn0KBmy4omyPW5H0Wnansc100TNqv5H08nHKxna3sn7tsQW0sg108P1-xna3srNtsQW0zg108n1Ixna31Pdtsg1Kxn0KBTdqsThqbpyfqn0KzUv-hUA7M5H00UyNY5H00mvNYmyTqn6KWIWY0pgPxmLK95H00mL0qn0K-TLfqn0KkuLIb5H00UL0k5H00TZ0Y5Hc0mLFW5Hfvn1Tv&us=newvui&word=&ck=0.0.0.0.0.0.0.0&shh=www.baidu.com&sht=baidu
+                  - generic [ref=f1e842]: WorkBuddy
+                  - text: 2026-07
+                  - generic [ref=f1e846]: 
+                  - generic [ref=f1e849]: 广告
+          - generic [ref=f1e853]:
+            - generic [ref=f1e854]: 大家还在搜
+            - generic [ref=f1e855]:
+              - link "手机版python下载安装" [ref=f1e856] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=%E6%89%8B%E6%9C%BA%E7%89%88python%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=a53fDr5BWehR7WMyNbOqMBgLU8EDze5hrGqp8KVq1FzOKXolnlLiW%2FeOk%2Fo&rsf=101631151&rsv_dl=0_prs_28608_1
+              - link "python官网入口免费" [ref=f1e859] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=python%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A3%E5%85%8D%E8%B4%B9&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=0d0cACz4qPLVo7jeljhTvOEKyYFL3ngkAOcmrDXy%2Bg5ZDl3TUpWNJBd5WTE&rsf=101631101&rsv_dl=0_prs_28608_2
+              - link "在线python编辑器" [ref=f1e862] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=%E5%9C%A8%E7%BA%BFpython%E7%BC%96%E8%BE%91%E5%99%A8&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=0d0cACz4qPLVo7jeljhTvOEKyYFL3ngkAOcmrDXy%2Bg5ZDl3TUpWNJBd5WTE&rsf=101631151&rsv_dl=0_prs_28608_3
+              - link "python课程" [ref=f1e865] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=python%E8%AF%BE%E7%A8%8B&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=0d0cACz4qPLVo7jeljhTvOEKyYFL3ngkAOcmrDXy%2Bg5ZDl3TUpWNJBd5WTE&rsf=101631161&rsv_dl=0_prs_28608_4
+              - link "python官方网站" [ref=f1e868] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=python%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=0d0cACz4qPLVo7jeljhTvOEKyYFL3ngkAOcmrDXy%2Bg5ZDl3TUpWNJBd5WTE&rsf=101633101&rsv_dl=0_prs_28608_5
+              - link "python代码自动生成器" [ref=f1e871] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=python%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E5%99%A8&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=0d0cACz4qPLVo7jeljhTvOEKyYFL3ngkAOcmrDXy%2Bg5ZDl3TUpWNJBd5WTE&rsf=101634503&rsv_dl=0_prs_28608_6
+              - link "python学了能干嘛" [ref=f1e874] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=python%E5%AD%A6%E4%BA%86%E8%83%BD%E5%B9%B2%E5%98%9B&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=0d0cACz4qPLVo7jeljhTvOEKyYFL3ngkAOcmrDXy%2Bg5ZDl3TUpWNJBd5WTE&rsf=101631101&rsv_dl=0_prs_28608_7
+              - link "phiaros下载" [ref=f1e877] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=phiaros%E4%B8%8B%E8%BD%BD&fenlei=256&usm=5&ie=utf-8&rsv_pq=d9411752018923c6&oq=python&rsv_t=0d0cACz4qPLVo7jeljhTvOEKyYFL3ngkAOcmrDXy%2Bg5ZDl3TUpWNJBd5WTE&rsf=101634504&rsv_dl=0_prs_28608_8
+          - generic [ref=f1e881]:
+            - heading [level=3] [ref=f1e882]:
+              - link [ref=f1e883] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - emphasis [ref=f1e884]: python
+                - text: _2026最新版_极极下载站
+            - generic [ref=f1e891]:
+              - generic [ref=f1e892]:
+                - link [ref=f1e1242] [cursor=pointer]:
+                  - /url: https://www.baidu.com/aladdin.php?url=000000amoV4TgpJ2jlYm7nX9QwSwr2dDz9LMz1wA3b1azDO6f3zKhTZi-nJY_aX2FULQnInX5-eI7YxYkRMhPM-XlMxfLMc8uI4S-fDgxXeyUVJ0G4N-7CysyP59wqTm7dLux3E3dauMZxwtJtLZ0MwYcEdi12gNaD7PlGp_RgFAysNh6pM9Vcn2dpPqY6WfYBqshZQY2ZDKmYeJdkai1wJi9q3-.7Y_NR2Ar5Od66WHj6hH4RZ_kuglRL5uwKAegf63eJ35AEkotIMZIgSHEomE8zt8HWE_Lqhqi_nYQAHx8lIs.THdsXgwCUv30uhN-uA-b5HDkrjbvnsKGTdqLpgF-UAN1T1Ys0ANzTAPEuARqRjcLnHD0mLFW5Hc4Pj0
+                - generic [ref=f1e896]:
+                  - emphasis [ref=f1e899]: Python
+                  - generic "评分4.5星" [ref=f1e1244]:
+                    - generic [ref=f1e902]:
+                      - generic [ref=f1e903]:
+                        - generic [ref=f1e904]: 
+                        - generic [ref=f1e1245]: 
+                      - generic [ref=f1e905]:
+                        - generic [ref=f1e906]: 
+                        - generic [ref=f1e1246]: 
+                      - generic [ref=f1e907]:
+                        - generic [ref=f1e908]: 
+                        - generic [ref=f1e1247]: 
+                      - generic [ref=f1e909]:
+                        - generic [ref=f1e910]: 
+                        - generic [ref=f1e1248]: 
+                      - generic [ref=f1e911]:
+                        - generic [ref=f1e912]: 
+                        - generic [ref=f1e1249]: 
+                  - generic [ref=f1e913]: 版本：3.14.5 大小：11.4MB
+                - generic [ref=f1e914]:
+                  - generic [ref=f1e1250] [cursor=pointer]: 普通下载
+                  - generic [ref=f1e915] [cursor=pointer]:
+                    - generic [ref=f1e1251]: 
+                    - text: 安全下载
+                  - generic [ref=f1e1252]: 使用安全软件为您下载
+              - generic [ref=f1e916]: 类型：编程软件 更新：2026-07-09 系统：win all
+            - generic [ref=f1e918] [cursor=pointer]:
+              - generic [ref=f1e919]: secure.tianjimedia.com
+              - generic [ref=f1e920]: 
+          - generic [ref=f1e923]:
+            - heading [level=3] [ref=f1e924]:
+              - link [ref=f1e925] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=0cwRXoR75dOxqkIMJlWZe8GVkVjokGefxwdijjYObat9Wv3s-8WF1ITtGW8tjWJcrvl1th7toiKZs57_0zp30Ky-a2sx8dl5IsssdHwqiZPe76wMl-V9Ri7E3S8tdHExdpk1abDfMP8emHaKxPigQa
+                - emphasis [ref=f1e926]: python
+                - text: 吧 - 百度贴吧
+            - generic [ref=f1e927]:
+              - link [ref=f1e929] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=0cwRXoR75dOxqkIMJlWZe8GVkVjokGefxwdijjYObat9Wv3s-8WF1ITtGW8tjWJcrvl1th7toiKZs57_0zp30Ky-a2sx8dl5IsssdHwqiZPe76wMl-V9Ri7E3S8tdHExdpk1abDfMP8emHaKxPigQa
+              - generic [ref=f1e935]:
+                - paragraph [ref=f1e936]: python学习交流基地。
+                - paragraph [ref=f1e937]:
+                  - generic [ref=f1e938]: 关注用户：48万人
+                - paragraph [ref=f1e939]:
+                  - generic [ref=f1e940]: 累计发贴：199万
+                - paragraph [ref=f1e941]:
+                  - link "精品贴" [ref=f1e942] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55ZCiTf08bsx0ioPD3fGuhymZC7nhM2xnO_wnVnoofrK1PihSRNkUB8k2DK6bBvDM0K
+                  - link "图片" [ref=f1e943] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=hZdPrR1Ajh7SEI_7J0uGyXA7ArboRP25qOwkkr-aakYk-xHE3oue3xbDVKuC3mn5cgOXhlVvgxg5j0q0uUK64npKChbd30Uv8cSiocIzgUi
+            - generic [ref=f1e944]:
+              - generic [ref=f1e946]:
+                - generic [ref=f1e947]:
+                  - link [ref=f1e948] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=VeJGUC1rB8KRBCu8nCRAli4PtuwaSgdQ841KUO9rckvj6sk9vR3xgQTC9GD2hl_ANBbEmfd4A2VBaQRCpX7P-nhtNi0vI3q-BgkUGRhaXulk5zBI-3OSPw0FvOx2Td5j
+                    - text: 一起来学
+                    - emphasis [ref=f1e949]: python
+                    - text: 吧（一）
+                  - generic [ref=f1e950]: 精
+                - generic [ref=f1e951]:
+                  - generic [ref=f1e952]:
+                    - text: 回复：
+                    - generic [ref=f1e953]: "129"
+                  - generic [ref=f1e954]:
+                    - text: 点击：
+                    - generic [ref=f1e955]: 3万
+              - generic [ref=f1e957]:
+                - link [ref=f1e959] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=0cwRXoR75dOxqkIMJlWZe5LODxwvcfNEohh-SGLmeVPjJOBtAdZ-wi157n9jl5pEta27UwlTJm-l1mZjpSg0lVlxlRFvlRhyxldJYVYE3hYlu9iIFDacW_sVitPvGNAj
+                  - emphasis [ref=f1e960]: python
+                  - text: 不考虑上班的情况下，学什么方向好啊
+                - generic [ref=f1e961]:
+                  - generic [ref=f1e962]:
+                    - text: 回复：
+                    - generic [ref=f1e963]: "12"
+                  - generic [ref=f1e964]:
+                    - text: 点击：
+                    - generic [ref=f1e965]: "3083"
+              - generic [ref=f1e967]:
+                - link "报了一个课感觉没啥用" [ref=f1e969] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=0cwRXoR75dOxqkIMJlWZe5LODxwvcfNEohh-SGLmeVPjJOBtAdZ-wi157n9jl5pEK2W1Qm3UfsUTzZ7Ig9AcTOsSEusdRLYHd36FrhxynMSImqvlnawZqo2Xv-6F1gEN
+                - generic [ref=f1e970]:
+                  - generic [ref=f1e971]:
+                    - text: 回复：
+                    - generic [ref=f1e972]: "28"
+                  - generic [ref=f1e973]:
+                    - text: 点击：
+                    - generic [ref=f1e974]: "727"
+            - link [ref=f1e976] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=0cwRXoR75dOxqkIMJlWZe8GVkVjokGefxwdijjYObat9Wv3s-8WF1ITtGW8tjWJcrvl1th7toiKZs57_0zp30Ky-a2sx8dl5IsssdHwqiZPe76wMl-V9Ri7E3S8tdHExdpk1abDfMP8emHaKxPigQa
+              - text: 查看更多
+              - emphasis [ref=f1e977]: python
+              - text: 吧的内容 >
+            - generic [ref=f1e978]:
+              - generic [ref=f1e979]: tieba.baidu.com/
+              - generic [ref=f1e980] [cursor=pointer]: 
+          - generic [ref=f1e985]:
+            - heading [level=3] [ref=f1e988]:
+              - link [ref=f1e989] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HLHnkydGGUG_wxcDcTZNwEJk_8BYM8bZUyaEVXwl9SxIeXMqsRcAx5wYMWrPtuI3bKBkAiPLql6UQP6qzyhhy6y41wHQ_hTxkoL_guxWXHYC3GsZDE38ydtp70FFi2Y5lPPOLdOqSqZZMbeTis8a0R2zvv3kLYUvOojtdieOI0whQj4XJ5lYsaiL8XkwcsNoZ_
+                - generic [ref=f1e991]:
+                  - emphasis [ref=f1e992]: Python
+                  - text: 简介与入门教程~
+            - generic [ref=f1e997]:
+              - text: 2024年7月31日
+              - generic [ref=f1e998] [cursor=pointer]:
+                - text: 打开VS Code,完成新手教程后,点击左侧工具栏中的Extensions(插件)按钮,安装
+                - emphasis [ref=f1e999]: python
+                - text: 插件,这款...
+            - generic [ref=f1e1000]:
+              - link [ref=f1e1001] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HLHnkydGGUG_wxcDcTZNwEJk_8BYM8bZUyaEVXwl9SxIeXMqsRcAx5wYMWrPtuI3bKBkAiPLql6UQP6qzyhhy6y41wHQ_hTxkoL_guxWXHYC3GsZDE38ydtp70FFi2Y5lPPOLdOqSqZZMbeTis8a0R2zvv3kLYUvOojtdieOI0whQj4XJ5lYsaiL8XkwcsNoZ_
+              - link [ref=f1e1005] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HLHnkydGGUG_wxcDcTZNwEJk_8BYM8bZUyaEVXwl9SxIeXMqsRcAx5wYMWrPtuI3bKBkAiPLql6UQP6qzyhhy6y41wHQ_hTxkoL_guxWXHYC3GsZDE38ydtp70FFi2Y5lPPOLdOqSqZZMbeTis8a0R2zvv3kLYUvOojtdieOI0whQj4XJ5lYsaiL8XkwcsNoZ_
+              - link [ref=f1e1009] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HLHnkydGGUG_wxcDcTZNwEJk_8BYM8bZUyaEVXwl9SxIeXMqsRcAx5wYMWrPtuI3bKBkAiPLql6UQP6qzyhhy6y41wHQ_hTxkoL_guxWXHYC3GsZDE38ydtp70FFi2Y5lPPOLdOqSqZZMbeTis8a0R2zvv3kLYUvOojtdieOI0whQj4XJ5lYsaiL8XkwcsNoZ_
+              - link [ref=f1e1013] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HLHnkydGGUG_wxcDcTZNwEJk_8BYM8bZUyaEVXwl9SxIeXMqsRcAx5wYMWrPtuI3bKBkAiPLql6UQP6qzyhhy6y41wHQ_hTxkoL_guxWXHYC3GsZDE38ydtp70FFi2Y5lPPOLdOqSqZZMbeTis8a0R2zvv3kLYUvOojtdieOI0whQj4XJ5lYsaiL8XkwcsNoZ_
+              - link "40" [ref=f1e1017] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HLHnkydGGUG_wxcDcTZNwEJk_8BYM8bZUyaEVXwl9SxIeXMqsRcAx5wYMWrPtuI3bKBkAiPLql6UQP6qzyhhy6y41wHQ_hTxkoL_guxWXHYC3GsZDE38ydtp70FFi2Y5lPPOLdOqSqZZMbeTis8a0R2zvv3kLYUvOojtdieOI0whQj4XJ5lYsaiL8XkwcsNoZ_
+                - generic [ref=f1e1022]:
+                  - generic [ref=f1e1023]: 
+                  - text: "40"
+            - link "微信公众平台" [ref=f1e1028] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HLHnkydGGUG_wxcDcTZNwEJk_8BYM8bZUyaEVXwl9SxIeXMqsRcAx5wYMWrPtuI3bKBkAiPLql6UQP6qzyhhy6y41wHQ_hTxkoL_guxWXHYC3GsZDE38ydtp70FFi2Y5lPPOLdOqSqZZMbeTis8a0R2zvv3kLYUvOojtdieOI0whQj4XJ5lYsaiL8XkwcsNoZ_
+              - generic [ref=f1e1030]: 
+          - generic [ref=f1e1035]:
+            - heading [level=3] [ref=f1e1038]:
+              - link [ref=f1e1039] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=hZdPrR1Ajh7SEI_7J0uGyLotAJuDhPahuy_UHlFVrR5bxMq13Z2VH9f0pzU8VTuVjrTjNA9c-BbNoLHsCs01c_
+                - generic [ref=f1e1041]:
+                  - emphasis [ref=f1e1042]: Python
+                  - text: 环境搭建 | 菜鸟教程
+            - generic [ref=f1e1048] [cursor=pointer]:
+              - emphasis [ref=f1e1049]: Python
+              - text: 环境搭建 Python 是一种跨平台的编程语言,能够在多种操作系统上运行。 本章节我们将...
+            - generic [ref=f1e1050]:
+              - link [ref=f1e1052] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=hZdPrR1Ajh7SEI_7J0uGyLotAJuDhPahuy_UHlFVrR5bxMq13Z2VH9f0pzU8VTuVjrTjNA9c-BbNoLHsCs01c_
+              - link [ref=f1e1057] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=hZdPrR1Ajh7SEI_7J0uGyLotAJuDhPahuy_UHlFVrR5bxMq13Z2VH9f0pzU8VTuVjrTjNA9c-BbNoLHsCs01c_
+              - link [ref=f1e1062] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=hZdPrR1Ajh7SEI_7J0uGyLotAJuDhPahuy_UHlFVrR5bxMq13Z2VH9f0pzU8VTuVjrTjNA9c-BbNoLHsCs01c_
+              - link "5" [ref=f1e1067] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=hZdPrR1Ajh7SEI_7J0uGyLotAJuDhPahuy_UHlFVrR5bxMq13Z2VH9f0pzU8VTuVjrTjNA9c-BbNoLHsCs01c_
+                - generic [ref=f1e1071]:
+                  - generic [ref=f1e1072]: 
+                  - text: "5"
+            - link "www.runoob.com/python/python-insta..." [ref=f1e1077] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=hZdPrR1Ajh7SEI_7J0uGyLotAJuDhPahuy_UHlFVrR5bxMq13Z2VH9f0pzU8VTuVjrTjNA9c-BbNoLHsCs01c_
+              - generic [ref=f1e1079]: 
+          - generic [ref=f1e1084]:
+            - heading [level=3] [ref=f1e1087]:
+              - link [ref=f1e1088] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HNueVc5LfjMQkf6rOzNd_a3y4Man_z2WXQr7jum-oQ_CobWcY7jiqgnWsNkGWzaNrws_NsUl41wgzZK8rMZKrEa4lxjcU__xi3YPjku78fTkJreRbAQIq9QUcMslp09r-j0oYiWiJ0xVhHl-PO8jvlLuJb-ITd3CrEvaWX0ytvJVdH1ZAP1d_bOMzrm9FWRo1a
+                - generic [ref=f1e1090]:
+                  - text: 【2025】神仙级
+                  - emphasis [ref=f1e1091]: Python
+                  - text: 入门教程(非常详细),从零基础入门到精通,从...
+            - generic [ref=f1e1096]:
+              - text: 2025年2月26日
+              - generic [ref=f1e1097] [cursor=pointer]:
+                - text: 1.为什么要学习
+                - emphasis [ref=f1e1098]: Python
+                - text: "? 在学习Python之前,你不要担心自己没基础或“脑子笨”,我始终认为,..."
+            - generic [ref=f1e1099]:
+              - link [ref=f1e1101] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HNueVc5LfjMQkf6rOzNd_a3y4Man_z2WXQr7jum-oQ_CobWcY7jiqgnWsNkGWzaNrws_NsUl41wgzZK8rMZKrEa4lxjcU__xi3YPjku78fTkJreRbAQIq9QUcMslp09r-j0oYiWiJ0xVhHl-PO8jvlLuJb-ITd3CrEvaWX0ytvJVdH1ZAP1d_bOMzrm9FWRo1a
+              - link [ref=f1e1106] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HNueVc5LfjMQkf6rOzNd_a3y4Man_z2WXQr7jum-oQ_CobWcY7jiqgnWsNkGWzaNrws_NsUl41wgzZK8rMZKrEa4lxjcU__xi3YPjku78fTkJreRbAQIq9QUcMslp09r-j0oYiWiJ0xVhHl-PO8jvlLuJb-ITd3CrEvaWX0ytvJVdH1ZAP1d_bOMzrm9FWRo1a
+              - link [ref=f1e1111] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HNueVc5LfjMQkf6rOzNd_a3y4Man_z2WXQr7jum-oQ_CobWcY7jiqgnWsNkGWzaNrws_NsUl41wgzZK8rMZKrEa4lxjcU__xi3YPjku78fTkJreRbAQIq9QUcMslp09r-j0oYiWiJ0xVhHl-PO8jvlLuJb-ITd3CrEvaWX0ytvJVdH1ZAP1d_bOMzrm9FWRo1a
+              - link "38" [ref=f1e1116] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HNueVc5LfjMQkf6rOzNd_a3y4Man_z2WXQr7jum-oQ_CobWcY7jiqgnWsNkGWzaNrws_NsUl41wgzZK8rMZKrEa4lxjcU__xi3YPjku78fTkJreRbAQIq9QUcMslp09r-j0oYiWiJ0xVhHl-PO8jvlLuJb-ITd3CrEvaWX0ytvJVdH1ZAP1d_bOMzrm9FWRo1a
+                - generic [ref=f1e1120]:
+                  - generic [ref=f1e1121]: 
+                  - text: "38"
+            - link "微信公众平台" [ref=f1e1126] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=wIYgk9vBqBxWsIKeX2E55L3fx2fY_IMBfsVTCI_VzL2vayrMq1cXQIfVJ2lDIrxIKd8xc328rqfipgyjhul1HNueVc5LfjMQkf6rOzNd_a3y4Man_z2WXQr7jum-oQ_CobWcY7jiqgnWsNkGWzaNrws_NsUl41wgzZK8rMZKrEa4lxjcU__xi3YPjku78fTkJreRbAQIq9QUcMslp09r-j0oYiWiJ0xVhHl-PO8jvlLuJb-ITd3CrEvaWX0ytvJVdH1ZAP1d_bOMzrm9FWRo1a
+              - generic [ref=f1e1128]: 
+        - generic [ref=f1e1132]:
+          - generic [ref=f1e1133]: 相关搜索
+          - table [ref=f1e1134]:
+            - rowgroup [ref=f1e1135]:
+              - row [ref=f1e1136]:
+                - cell [ref=f1e1137]:
+                  - link "手机版python下载安装" [ref=f1e1138] [cursor=pointer]:
+                    - /url: /s?wd=%E6%89%8B%E6%9C%BA%E7%89%88python%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85&rsf=101631151&rsp=0&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_1
+                - cell [ref=f1e1141]:
+                  - link "python官网入口免费" [ref=f1e1142] [cursor=pointer]:
+                    - /url: /s?wd=python%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A3%E5%85%8D%E8%B4%B9&rsf=101631101&rsp=1&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_2
+              - row [ref=f1e1145]:
+                - cell [ref=f1e1146]:
+                  - link "在线python编辑器" [ref=f1e1147] [cursor=pointer]:
+                    - /url: /s?wd=%E5%9C%A8%E7%BA%BFpython%E7%BC%96%E8%BE%91%E5%99%A8&rsf=101631151&rsp=2&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_3
+                - cell [ref=f1e1150]:
+                  - link "python课程" [ref=f1e1151] [cursor=pointer]:
+                    - /url: /s?wd=python%E8%AF%BE%E7%A8%8B&rsf=101631161&rsp=3&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_4
+              - row [ref=f1e1154]:
+                - cell [ref=f1e1155]:
+                  - link "python代码自动生成器" [ref=f1e1156] [cursor=pointer]:
+                    - /url: /s?wd=python%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E5%99%A8&rsf=101634503&rsp=4&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_5
+                - cell [ref=f1e1159]:
+                  - link "python学了能干嘛" [ref=f1e1160] [cursor=pointer]:
+                    - /url: /s?wd=python%E5%AD%A6%E4%BA%86%E8%83%BD%E5%B9%B2%E5%98%9B&rsf=101631101&rsp=5&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_6
+              - row [ref=f1e1163]:
+                - cell [ref=f1e1164]:
+                  - link "python零基础入门教程" [ref=f1e1165] [cursor=pointer]:
+                    - /url: /s?wd=python%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B&rsf=101631161&rsp=6&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_7
+                - cell [ref=f1e1168]:
+                  - link "phiaros下载" [ref=f1e1169] [cursor=pointer]:
+                    - /url: /s?wd=phiaros%E4%B8%8B%E8%BD%BD&rsf=101634504&rsp=7&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_8
+              - row [ref=f1e1172]:
+                - cell [ref=f1e1173]:
+                  - link "python一般要学几年" [ref=f1e1174] [cursor=pointer]:
+                    - /url: /s?wd=python%E4%B8%80%E8%88%AC%E8%A6%81%E5%AD%A6%E5%87%A0%E5%B9%B4&rsf=101631151&rsp=8&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_9
+                - cell [ref=f1e1177]:
+                  - link "学python前需要哪些基础" [ref=f1e1178] [cursor=pointer]:
+                    - /url: /s?wd=%E5%AD%A6python%E5%89%8D%E9%9C%80%E8%A6%81%E5%93%AA%E4%BA%9B%E5%9F%BA%E7%A1%80&rsf=101633601&rsp=9&f=1&rs_src=0&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&rsv_dl=brs_28338_10
+      - generic [ref=f1e1183]:
+        - link:
+          - /url: ""
+        - strong [ref=f1e1184]:
+          - generic [ref=f1e1185]: "1"
+        - link "2" [ref=f1e1186] [cursor=pointer]:
+          - /url: /s?wd=python&pn=10&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=
+        - link "3" [ref=f1e1188] [cursor=pointer]:
+          - /url: /s?wd=python&pn=20&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=
+        - link "4" [ref=f1e1190] [cursor=pointer]:
+          - /url: /s?wd=python&pn=30&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=
+        - link "5" [ref=f1e1192] [cursor=pointer]:
+          - /url: /s?wd=python&pn=40&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=
+        - link "6" [ref=f1e1194] [cursor=pointer]:
+          - /url: /s?wd=python&pn=50&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=
+        - link "7" [ref=f1e1196] [cursor=pointer]:
+          - /url: /s?wd=python&pn=60&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=
+        - link "8" [ref=f1e1198] [cursor=pointer]:
+          - /url: /s?wd=python&pn=70&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=
+        - link "9" [ref=f1e1200] [cursor=pointer]:
+          - /url: /s?wd=python&pn=80&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=
+        - link "10" [ref=f1e1202] [cursor=pointer]:
+          - /url: /s?wd=python&pn=90&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=
+        - link [ref=f1e1204] [cursor=pointer]:
+          - /url: /s?wd=python&pn=10&oq=python&ie=utf-8&usm=5&fenlei=256&rsv_idx=1&rsv_pq=d9411752018923c6&rsv_t=0866EkY8NrdOajahC32x0K%2FFG4VEjEdZPBfqAUEIp7WZDmEa4JZsGoqU5LI&topic_pn=&rsv_page=1
+      - generic [ref=f1e1209]:
+        - link "帮助" [ref=f1e1210] [cursor=pointer]:
+          - /url: https://help.baidu.com/question?prod_id=1
+        - link "举报" [ref=f1e1211] [cursor=pointer]:
+          - /url: https://help.baidu.com/jubao?source=search
+        - link "用户反馈" [ref=f1e1212] [cursor=pointer]:
+          - /url: javascript:;
+        - link "企业推广" [ref=f1e1213] [cursor=pointer]:
+          - /url: https://e.baidu.com/lp/search/?refer=1298

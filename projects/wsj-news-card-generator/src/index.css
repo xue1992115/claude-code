@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+/* WSJ 基础样式 */
+body {
+  font-family: 'Merriweather', Georgia, serif;
+  color: #1a1a1a;
+}

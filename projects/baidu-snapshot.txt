@@ -1,0 +1,65 @@
+- generic [ref=e3]:
+  - generic:
+    - generic [ref=e6]:
+      - link "新闻" [ref=e7] [cursor=pointer]:
+        - /url: http://news.baidu.com
+      - link "hao123" [ref=e8] [cursor=pointer]:
+        - /url: https://www.hao123.com?src=from_pc
+      - link "地图" [ref=e9] [cursor=pointer]:
+        - /url: http://map.baidu.com
+      - link "贴吧" [ref=e10] [cursor=pointer]:
+        - /url: http://tieba.baidu.com/
+      - link "视频" [ref=e11] [cursor=pointer]:
+        - /url: https://haokan.baidu.com/?sfrom=baidu-top
+      - link "图片" [ref=e12] [cursor=pointer]:
+        - /url: http://image.baidu.com/
+      - link "网盘" [ref=e13] [cursor=pointer]:
+        - /url: https://pan.baidu.com?from=1026962h
+      - link "文库" [ref=e14] [cursor=pointer]:
+        - /url: https://wenku.baidu.com/?fr=bdpcindex
+      - link "文心" [ref=e15] [cursor=pointer]:
+        - /url: https://chat.baidu.com/search?isShowHello=1&pd=csaitab&setype=csaitab&extParamsJson=%7B%22enter_type%22%3A%22home_tab%22%7D
+      - link "搭子DuMate" [ref=e16] [cursor=pointer]:
+        - /url: https://dumate.cn?track=bdsy
+      - link "更多" [ref=e18] [cursor=pointer]:
+        - /url: http://www.baidu.com/more/
+    - generic [ref=e19]:
+      - generic [ref=e20] [cursor=pointer]: 设置
+      - link "登录" [ref=e21] [cursor=pointer]:
+        - /url: https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5
+  - generic [ref=e24]:
+    - generic [ref=e25]:
+      - generic
+    - generic [ref=e31]:
+      - generic [ref=e34]
+      - link "复杂问题就找文心助手，深入思考回答更优 " [ref=e67] [cursor=pointer]:
+        - /url: https://chat.baidu.com/search?extParams=%7B%22enter_type%22%3A%22home_operate%22%7D&isShowHello=1
+    - generic [ref=e72]:
+      - generic [ref=e73]
+      - list
+  - generic [ref=e118]:
+    - paragraph [ref=e119]:
+      - link "关于百度" [ref=e120] [cursor=pointer]:
+        - /url: //home.baidu.com
+    - paragraph [ref=e121]:
+      - link "About Baidu" [ref=e122] [cursor=pointer]:
+        - /url: http://ir.baidu.com
+    - paragraph [ref=e123]:
+      - link "使用百度前必读" [ref=e124] [cursor=pointer]:
+        - /url: //www.baidu.com/duty
+    - paragraph [ref=e125]:
+      - link "帮助中心" [ref=e126] [cursor=pointer]:
+        - /url: https://help.baidu.com/question?prod_id=1
+    - paragraph [ref=e127]:
+      - link "企业推广" [ref=e128] [cursor=pointer]:
+        - /url: https://e.baidu.com/?refer=1271
+    - paragraph [ref=e129]:
+      - link "京公网安备11000002000001号" [ref=e130] [cursor=pointer]:
+        - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001
+    - paragraph [ref=e131]:
+      - link "京ICP证030173号" [ref=e132] [cursor=pointer]:
+        - /url: https://beian.miit.gov.cn
+    - paragraph [ref=e133]: 互联网新闻信息服务许可证11220180008
+    - paragraph [ref=e134]: 网络文化经营许可证： 京网文〔2026〕0171-042号
+    - generic [ref=e135]: 
+    - generic [ref=e136]: 
